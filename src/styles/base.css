@@ -3,6 +3,28 @@
 @tailwind utilities;
 
 @layer base {
+  html[data-theme="dark"] .background {
+    animation: slide 8s linear infinite;
+    background-image: url(./assets/background.svg);
+    background-position: center center;
+    background-size: 240px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+  }
+
+  @keyframes slide {
+    0% {
+      transform: translate3d(0, 0, 0);
+    }
+
+    100% {
+      transform: translate3d(-240px, -240px, 0);
+    }
+  }
   :root,
   html[data-theme="light"] {
     --color-fill: 251, 254, 251;
@@ -34,6 +56,7 @@
   body {
     @apply flex min-h-[100svh] flex-col bg-skin-fill font-mono text-skin-base 
     selection:bg-skin-accent selection:bg-opacity-70 selection:text-skin-inverted;
+    overflow: hidden;
   }
   section,
   footer {
