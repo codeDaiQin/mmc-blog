@@ -40,4 +40,4 @@ export type SocialMedia =
   | "Steam"
   | "Telegram"
   | "Mastodon"
-  | "BiliBili";
+  | "bilibili";
