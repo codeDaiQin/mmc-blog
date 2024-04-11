@@ -5,7 +5,7 @@ pubDatetime: 2024-03-30T18:10:51Z
 featured: false
 draft: false
 tags:
-  - 408
+  - 考研笔记 408
 description: 数据结构 串的模式匹配
 ---
 
@@ -17,7 +17,7 @@ description: 数据结构 串的模式匹配
 
 | next[0] | next[1]  | next[2]  | next[3] | next[4] | next[5] | next[6] |
 | ------- | -------- | -------- | ------- | ------- | ------- | ------- |
-| -       | 0 (固定) | 1 (固定) |
+| -       | 0 (固定) | 1 (固定) | -       | -       | -       | -       |
 
 next[3]: 此时第三位 o 匹配失败
 | 主串 | ？ | g | o | ? |
@@ -58,7 +58,7 @@ for (int j = 2; j <= T.length; j++) {
 
 主串S 模式串T 模式串T对应的next数组
 
-```C
+```c
 int KMP (SString S, SString T, int next[]) {
   int i = 1, j = 1;
   while (S.length >= i && T.length >= j) {
