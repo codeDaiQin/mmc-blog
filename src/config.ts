@@ -145,7 +145,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "BiliBili",
-    href: "https://space.bilibili.com/10091496",
+    href: "https://space.bilibili.com/3494353410460030",
     linkTitle: `${SITE.title} on BiliBili`,
     active: true,
   },
