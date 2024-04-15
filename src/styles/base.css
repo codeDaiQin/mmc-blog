@@ -9,10 +9,8 @@
     background-position: center center;
     background-size: 240px;
     position: fixed;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
+    height: 200vh;
+    width: 200vw;
     z-index: -1;
   }
 
