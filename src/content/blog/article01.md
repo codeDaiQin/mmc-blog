@@ -6,6 +6,7 @@ featured: false
 draft: false
 tags:
   - 考研笔记 408
+  - 数据结构
 description: 数据结构 串的模式匹配
 ---
 

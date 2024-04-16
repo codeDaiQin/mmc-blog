@@ -6,6 +6,7 @@ featured: false
 draft: false
 tags:
   - 考研笔记 408
+  - 数据结构
 description: 数据结构 树与二叉树
 ---
 
@@ -66,6 +67,8 @@ $
 - 后序: 左右根
 - 层序: 从上到下 从左到右
 
+**二叉树层序**
+
 ```c
   void levelOrder(BiTree T) {
     InitQueue(Q); // 初始化
@@ -81,6 +84,19 @@ $
 ```
 
 由 先/后/层 + 中序遍历可以确定唯一二叉树
+
+**二叉树递归遍历**
+
+```c
+  void Traverse(BiTree *T) {
+    if (T == NULL) return;
+    // 先序 visit(T)
+    Traverse(T->lchild);
+    // 中序 visit(T)
+    Traverse(T->rchild);
+    // 后序 visit(T)
+  }
+```
 
 ### 线索二叉树
 
