@@ -47,3 +47,137 @@ description: 单词积累
 34. `press for sth.` 敦促，催促
 35. `fashion` v.制作，使成形；塑造 n.时尚
 36. `bill` n.账单；议案，法案；v.开账单；把……宣传为；宣布
+37. `autumn` n.秋季, 秋天
+
+## 2
+
+1. evaluate
+2. realm\*\*\*
+3. perspective\*
+4. appropriate\*
+5. extend\*
+6. extent\*
+7. numerous
+8. conversion
+9. converse
+10. contend\*
+11. content\*
+12. forge\*
+13. talent
+14. literacy
+15. superior\*
+16. embody\*
+17. original\*
+18. immerse\*\*\*
+19. nurture\*
+20. emphasize\*
+21. outlook\*
+22. exceptional\*
+23. crucial\*
+24. cautious\*
+25. discern\*
+26. preserve\*
+27. contemporary\*
+28. scrape\*
+29. junk
+30. plunge\*
+31. formula
+32. slim\*
+33. marine\*
+34. range\*
+35. range over
+36. susceptible\*
+37. innermost
+38. least\*
+39. disguise
+40. gas
+41. spur\*
+42. conference
+43. tile\*
+44. premise
+45. assimilate
+46. cruise\*\*\*
+
+## 2
+
+47. disgust
+48. scorn\*
+49. pollution\*
+50. explicit
+51. infect
+52. disposition
+53. diversion
+54. wander\*
+55. jet\*
+56. weird\*
+57. wired\*
+58. ignorant
+59. petrol
+60. hedge
+61. scarce\*
+62. synthesis
+63. tension
+64. virgin\*\*\*
+65. hazard\*
+66. torture\*
+67. narrative
+68. speculate\*
+69. intensity\*
+70. ego
+71. exhibit\*
+72. medal
+73. uncover
+74. cover
+75. tent
+76. ventilate\*
+77. barber\*
+78. vertical
+79. verdict
+80. prosperous
+81. curl
+82. bastard
+83. mourn
+84. creep
+85. rot\*
+86. leap
+87. pinch
+
+## 3
+
+88. shove
+89. robust
+90. crab
+91. explosion
+92. military
+93. elbow
+94. wrist
+95. mutual
+96. envy
+97. craft
+98. sentiment
+99. stride
+100.  idiom
+101.  illusion
+102.  converge
+103.  tide
+104.  acute
+105.  monotonous
+106.  liver
+107.  injure
+108.  applaud
+109.  epoch
+110.  desperate
+111.  cunning
+112.  invitation
+113.  tempt
+114.  initiate
+115.  generous
+116.  poverty
+117.  spiral
+118.  conceal
+119.  purse
+120.  assistance
+121.  quiet
+122.  quite
+123.  suggest
+124.  be left to
