@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "mmc's blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 5,
+  postPerPage: 10,
 };
 
 export const LOCALE = {

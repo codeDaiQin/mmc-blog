@@ -68,7 +68,7 @@ description: 单词积累
 15. superior #
 16. embody #
 17. original #
-18. immerse ####
+18. `immerse` #####
 19. nurture #
 20. emphasize #
 21. outlook #
@@ -81,7 +81,7 @@ description: 单词积累
 28. contemporary #
 29. scrape ####
 30. junk
-31. plunge ##
+31. plunge ### plunge into(投入)
 32. formula
 33. slim #
 34. marine #
@@ -97,12 +97,12 @@ description: 单词积累
 44. tile #
 45. premise
 46. assimilate
-47. cruise #####
+47. `cruise` ######
 
 ## 2
 
-48. disgust #
-49. scorn #
+48. disgust ##
+49. scorn ##
 50. pollution #
 51. explicit
 52. infect
@@ -115,10 +115,10 @@ description: 单词积累
 59. ignorant
 60. petrol
 61. hedge #
-62. scarce #
+62. scarce ##
 63. synthesis
 64. tension
-65. virgin #####
+65. `virgin` #####
 66. hazard #
 67. torture #
 68. narrative
@@ -176,7 +176,7 @@ description: 单词积累
 116.  poverty
 117.  spiral
 118.  conceal
-119.  purse
+119.  purse #
 120.  assistance
 121.  quiet
 122.  quite
@@ -203,7 +203,7 @@ description: 单词积累
 140. amplify
 141. plagiarism
 142. cement #
-143. starve
+143. starve #
 144. rebel
 145. racial #
 146. necklace
@@ -220,61 +220,62 @@ description: 单词积累
 157. levy
 158. complain
 159. puzzle #
-160. grieve ####
+160. `grieve` ######
 161. naive
 162. excess
 163. pregnant ##
 164. shuttle ##
 165. compose
-166. snack ##
+166. snack ###
 167. proportion
 
 ## 5
 
-168. expectation
-169. inference #
-170. insight
-171. outer
-172. imitation
-173. foster #
-174. substantial
-175. revolve
-176. antique
-177. costly
-178. seemingly #
-179. mat #
-180. refrain
-181. heroic
-182. intrude #
-183. preside #
-184. shed #
-185. agitate #
-186. sketch
-187. plaster
+168. expectation #
+169. exception #
+170. inference ##
+171. insight
+172. outer
+173. imitation
+174. foster #
+175. substantial
+176. revolve
+177. antique
+178. costly
+179. seemingly ##
+180. mat # on the mat(受责备)
+181. refrain
+182. heroic
+183. intrude #
+184. preside ##
+185. shed ## shed light on sth(解释 启示)
+186. agitate # agitate against(反对) agitate for (呼吁 鼓动)
+187. sketch
+188. plaster # plaster over(掩盖)
 
 ## 6
 
-188. bronze
-189. striking
-190. blend
-191. tangible
-192. compile
-193. oral
-194. attribute
-195. spite
-196. chapter
-197. amid
-198. inspire
-199. worship
-200. studio
-201. rigorous
-202. prose
-203. headquarters
-204. annual
-205. currency
-206. descent
-207. apparatus
-208. litter
-209. charity
-210. feasible
-211. unanimous
+189. bronze
+190. striking
+191. blend #
+192. tangible #
+193. compile
+194. oral #
+195. attribute
+196. spite
+197. chapter
+198. amid
+199. inspire
+200. worship #
+201. studio
+202. rigorous
+203. prose
+204. headquarters
+205. annual
+206. currency
+207. descent #
+208. apparatus #
+209. litter
+210. charity
+211. feasible
+212. unanimous
