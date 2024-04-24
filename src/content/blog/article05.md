@@ -52,95 +52,96 @@ description: 单词积累
 ## 2
 
 1. evaluate
-2. realm\*\*\*
-3. perspective\*
-4. appropriate\*
-5. extend\*
-6. extent\*
+2. realm ###
+3. perspective ##
+4. appropriate #
+5. extend #
+6. extent #
 7. numerous
-8. conversion
-9. converse
-10. contend\*
-11. content\*
-12. forge\*
+8. conversion #
+9. converse #
+10. contend #
+11. content #
+12. forge#
 13. talent
 14. literacy
-15. superior\*
-16. embody\*
-17. original\*
-18. immerse\*\*\*
-19. nurture\*
-20. emphasize\*
-21. outlook\*
-22. exceptional\*
-23. crucial\*
-24. cautious\*
-25. discern\*
-26. preserve\*
-27. contemporary\*
-28. scrape\*
-29. junk
-30. plunge\*
-31. formula
-32. slim\*
-33. marine\*
-34. range\*
-35. range over
-36. susceptible\*
-37. innermost
-38. least\*
-39. disguise
-40. gas
-41. spur\*
-42. conference
-43. tile\*
-44. premise
-45. assimilate
-46. cruise\*\*\*
+15. superior #
+16. embody #
+17. original #
+18. immerse ####
+19. nurture #
+20. emphasize #
+21. outlook #
+22. exceptional #
+23. crucial #
+24. cautious #
+25. discern #
+26. preserve #
+27. conserve
+28. contemporary #
+29. scrape ####
+30. junk
+31. plunge ##
+32. formula
+33. slim #
+34. marine #
+35. range #
+36. range over
+37. susceptible #
+38. innermost
+39. least #
+40. disguise
+41. gas
+42. spur ##
+43. conference #
+44. tile #
+45. premise
+46. assimilate
+47. cruise #####
 
 ## 2
 
-47. disgust
-48. scorn\*
-49. pollution\*
-50. explicit
-51. infect
-52. disposition
-53. diversion
-54. wander\*
-55. jet\*
-56. weird\*
-57. wired\*
-58. ignorant
-59. petrol
-60. hedge
-61. scarce\*
-62. synthesis
-63. tension
-64. virgin\*\*\*
-65. hazard\*
-66. torture\*
-67. narrative
-68. speculate\*
-69. intensity\*
-70. ego
-71. exhibit\*
-72. medal
-73. uncover
-74. cover
-75. tent
-76. ventilate\*
-77. barber\*
-78. vertical
-79. verdict
-80. prosperous
-81. curl
-82. bastard
-83. mourn
-84. creep
-85. rot\*
-86. leap
-87. pinch
+48. disgust #
+49. scorn #
+50. pollution #
+51. explicit
+52. infect
+53. disposition
+54. diversion
+55. wander #
+56. jet ##
+57. weird ###
+58. wired #
+59. ignorant
+60. petrol
+61. hedge #
+62. scarce #
+63. synthesis
+64. tension
+65. virgin #####
+66. hazard #
+67. torture #
+68. narrative
+69. speculate #
+70. intensity #
+71. ego
+72. exhibit#
+73. medal
+74. uncover
+75. cover
+76. tent
+77. ventilate#
+78. barber#
+79. vertical
+80. verdict
+81. prosperous
+82. curl
+83. bastard
+84. mourn
+85. creep ##
+86. rot #
+87. leap
+88. pinch
 
 ## 3
 
@@ -149,23 +150,23 @@ description: 单词积累
 90. crab
 91. explosion
 92. military
-93. elbow
-94. wrist
+93. elbow #
+94. wrist ##
 95. mutual
 96. envy
 97. craft
-98. sentiment
+98. sentiment #
 99. stride
 100.  idiom
 101.  illusion
-102.  converge
+102.  converge ##
 103.  tide
 104.  acute
 105.  monotonous
-106.  liver
+106.  liver#
 107.  injure
 108.  applaud
-109.  epoch
+109.  epoch#
 110.  desperate
 111.  cunning
 112.  invitation
@@ -181,3 +182,99 @@ description: 单词积累
 122.  quite
 123.  suggest
 124.  be left to
+
+## 4
+
+125. lounge #
+126. geometry
+127. destruction
+128. toss
+129. wit
+130. symphony
+131. tribe
+132. damn #
+133. trumpet #
+134. triumph
+135. dilemma
+136. declare #
+137. punch #
+138. sequence
+139. subsequence
+140. amplify
+141. plagiarism
+142. cement #
+143. starve
+144. rebel
+145. racial #
+146. necklace
+147. chronic
+148. thrift
+149. comedy
+150. courtesy #
+151. cab
+152. pulse
+153. apart
+154. apartment #
+155. accommodation ##
+156. nuisance #
+157. levy
+158. complain
+159. puzzle #
+160. grieve ####
+161. naive
+162. excess
+163. pregnant ##
+164. shuttle ##
+165. compose
+166. snack ##
+167. proportion
+
+## 5
+
+168. expectation
+169. inference #
+170. insight
+171. outer
+172. imitation
+173. foster #
+174. substantial
+175. revolve
+176. antique
+177. costly
+178. seemingly #
+179. mat #
+180. refrain
+181. heroic
+182. intrude #
+183. preside #
+184. shed #
+185. agitate #
+186. sketch
+187. plaster
+
+## 6
+
+188. bronze
+189. striking
+190. blend
+191. tangible
+192. compile
+193. oral
+194. attribute
+195. spite
+196. chapter
+197. amid
+198. inspire
+199. worship
+200. studio
+201. rigorous
+202. prose
+203. headquarters
+204. annual
+205. currency
+206. descent
+207. apparatus
+208. litter
+209. charity
+210. feasible
+211. unanimous

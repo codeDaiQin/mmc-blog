@@ -1,5 +1,5 @@
 ---
-title: 考研笔记-8.排序
+title: 考研笔记-数据结构-8.排序
 author: caterpillar
 pubDatetime: 2024-04-21T00:00:00Z
 featured: false

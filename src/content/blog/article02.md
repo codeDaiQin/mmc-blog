@@ -1,5 +1,5 @@
 ---
-title: 考研笔记-5.树与二叉树
+title: 考研笔记-数据结构-5.树与二叉树
 author: caterpillar
 pubDatetime: 2024-04-13T18:10:51Z
 featured: false

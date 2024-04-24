@@ -1,5 +1,5 @@
 ---
-title: 考研笔记-6.图
+title: 考研笔记-数据结构-6.图
 author: caterpillar
 pubDatetime: 2024-04-16T00:00:00Z
 featured: false

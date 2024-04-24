@@ -1,5 +1,5 @@
 ---
-title: 考研笔记-KMP算法
+title: 考研笔记-数据结构-KMP算法
 author: caterpillar
 pubDatetime: 2024-03-30T18:10:51Z
 featured: false

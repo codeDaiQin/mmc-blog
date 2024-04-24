@@ -1,5 +1,5 @@
 ---
-title: 考研笔记-7.查找
+title: 考研笔记-数据结构-7.查找
 author: caterpillar
 pubDatetime: 2024-04-19T00:00:00Z
 featured: false
