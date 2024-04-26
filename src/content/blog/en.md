@@ -52,7 +52,7 @@ description: 单词积累
 ## 2
 
 1. evaluate
-2. realm ###
+2. realm ####
 3. perspective ##
 4. appropriate #
 5. extend #
@@ -115,7 +115,7 @@ description: 单词积累
 59. ignorant
 60. petrol
 61. hedge #
-62. scarce ##
+62. scarce ###
 63. synthesis
 64. tension
 65. `virgin` #####
@@ -203,7 +203,7 @@ description: 单词积累
 140. amplify
 141. plagiarism
 142. cement #
-143. starve #
+143. starve ##
 144. rebel
 145. racial #
 146. necklace
@@ -215,7 +215,7 @@ description: 单词积累
 152. pulse
 153. apart
 154. apartment #
-155. accommodation ##
+155. accommodation ###
 156. nuisance #
 157. levy
 158. complain
@@ -233,7 +233,7 @@ description: 单词积累
 
 168. expectation #
 169. exception #
-170. inference ##
+170. inference ###
 171. insight
 172. outer
 173. imitation
@@ -251,7 +251,7 @@ description: 单词积累
 185. shed ## shed light on sth(解释 启示)
 186. agitate # agitate against(反对) agitate for (呼吁 鼓动)
 187. sketch
-188. plaster # plaster over(掩盖)
+188. plaster ## plaster over(掩盖)
 
 ## 6
 
@@ -268,14 +268,105 @@ description: 单词积累
 199. inspire
 200. worship #
 201. studio
-202. rigorous
+202. rigorous #
 203. prose
 204. headquarters
 205. annual
 206. currency
-207. descent #
-208. apparatus #
+207. descent ##
+208. apparatus ##
 209. litter
-210. charity
+210. charity ##
 211. feasible
-212. unanimous
+212. unanimous #
+
+## 7
+
+213. stake
+214. identity
+215. liberty
+216. hug
+217. extinguish
+218. blossom #
+219. suspend
+220. delicate ##
+221. destination
+222. volatile #
+223. hail ##
+224. extract
+225. forbid
+226. veteran #
+227. lane
+228. cucumber
+229. charm #
+230. nursery #
+231. province #
+232. volcano
+233. affiliate
+234. foam #
+235. horrible
+236. couch
+237. region
+238. glow #
+239. band
+240. exempt #
+241. quiz #
+242. means
+243. overcome #
+244. utmost
+245. fragile
+246. attorney
+247. extensive
+248. scenario #
+249. sip #
+250. deputy
+251. campaign
+252. distress #
+253. perish
+254. agenda
+255. gender
+256. pyramid
+257. prey
+258. rival
+259. launch
+260. deserve
+
+## 8
+
+261. stereotype
+262. advent
+263. subtle
+264. insulate
+265. radius
+266. eminent
+267. taboo
+268. appetite
+269. deficit
+270. counsel
+271. lucrative
+272. stalk
+273. slum
+274. manipulate
+275. quest
+276. stall
+277. weep
+278. lottery
+279. harmony
+280. spin
+281. passive
+282. intact
+283. curiosity
+284. amateur
+285. drought
+286. accommodate
+287. crawl
+288. sanction
+289. disturbance
+290. awkward
+291. tariff
+292. proof
+293. scratch
+294. therapy
+295. appearance
+296. pearl
+297. cloak

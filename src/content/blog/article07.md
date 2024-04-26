@@ -15,6 +15,52 @@ description: 高数知识点梳理
   - 递推式 函数求导
   - 裂项相消：分母为相邻或相隔项的乘积
 
+### 通项已知（和式）不易连续化
+
+### 夹逼准则
+
+例: 设$X_n = (1 + \tfrac{1}{n^2})(1 + \tfrac{2}{n^2})...(1 + \tfrac{n}{n^2})$, 则 $\displaystyle\lim_{n->\infty}X_n = e^{\tfrac{1}{2}}$
+
+解: 等式两边取对数 $\ln{X_n} = Sigma_{i=1}^{n}\ln(1+ \tfrac{i}{n^2})$
+根据不等式 $\tfrac{x}{1+x} < \ln(1+x) < x (x>0)$ 有
+$\displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{\tfrac{i}{n^2}}{1+\tfrac{i}{n^2}} < \displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\ln(1 + \tfrac{i}{n^2}) < \displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2}$
+
+上式右端 $\displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2} = \displaystyle\lim_{n ->\infty}\tfrac{1}{n^2}  \tfrac{n(n+1)}{2} = \tfrac{1}{2}$
+
+上式左端 $\displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{\tfrac{i}{n^2}}{1+\tfrac{i}{n^2}} = \displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + i}$
+由夹逼准则, $\displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + n} < \displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + i} < \displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + 1}$
+解得 $\displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + i} = \tfrac{1}{2}$
+
+故$\displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\ln(1 + \tfrac{i}{n^2}) = \tfrac{1}{2}$
+即 $\ln{X_n} = \tfrac{1}{2}, X_n = e^{\tfrac{1}{2}}$
+
+> 总结: 若干项相乘可等式两边取对数转为相加
+
+### 定积分的应用
+
+### 递推公式 `单调有界准则`
+
+1. 先单调有界准则证明极限存在
+
+单调性
+
+1. $X_n - X_{n - 1}$ 后项 - 前项 和 0 比较
+2. $\tfrac{X_n}{X_{n-1}}$ 后项 比 前项 和 1比较
+3. 递推函数求导 > 0 -> `单调`， 再看 $X_1$ 和 $X_2$的关系 后项>前项 单调增，后向<前项 单调减。
+
+例: 设$X_1 = \sqrt{a}, X_{n+1} = \sqrt{a + X_n} $, 证明 $\displaystyle\lim_{n->\infty} X_n$ 存在，并求值
+解: 令 $f(x) = \sqrt{a + x}, f'(x) = \tfrac{1}{2\sqrt{a + x}} > 0$，且$X_2 > X_1， 即 X_n$ 单调增
+
+设 $\displaystyle\lim_{n->\infty} X_n = A$ 则 $X_{n+1} = \sqrt{a + X_n} = A = \sqrt{a + A}$
+解得 $A_1 = \tfrac{1 + \sqrt{1 + 4a}}{2}, A_2 = \tfrac{1 - \sqrt{1 + 4a}}{2} (要求>0 舍) $ 即 $\tfrac{1 + \sqrt{1 + 4a}}{2} 为上界$ ？？这里怎么证明出来的上界
+由单调有界准则可知，$\displaystyle\lim_{n->\infty} X_n = \tfrac{1 + \sqrt{1 + 4a}}{2}$
+
+### 已知通项
+
+- 裂项相消法
+
+todo https://www.bilibili.com/video/BV1K14y1d79p?p=3&vd_source=76b751c6c2314509a3c85f4650ebe175
+
 ## 导数
 
 - 常见反例掌握 $sin{x^2}、|x|$
@@ -22,6 +68,29 @@ description: 高数知识点梳理
   - $f(x)在[a, b]连续 -> 在[a, b]有界$
   - $f(x)在(a, b)连续 且 \displaystyle\lim_{x->b-} \displaystyle\lim_{x->a+}存在 -> 在(a, b)有界$
   - $f'(x)在有限开区间有界 —> f(x)在区间有界$
+
+### 高阶导数
+
+#### 奇偶性
+
+- 奇次导 奇偶性发生变化
+- 偶次导 奇偶性不变
+
+#### 公式
+
+##### $\tfrac{1}{ax + b}^{(n)} = \tfrac{{(-1)^n}n! a^n}{{ax+b}^{n+1}}$
+
+##### $(vn)^{(n)} = \displaystyle\Sigma_{k=0}^nC_n^ku^{(k)}v^{(n-k)}$
+
+##### Taylor(在0点处！)
+
+$f(x) = f(0) + f'(0)x + \tfrac{f^{(n)}(0) x^n}{n!}$ 即 $f^{(n)}(0) = x^n的系数 * n!$
+
+例: $设f(x) = x^{100}e^{x^2} 求 f^{(200)}(0)$
+解: $f(x) = f(0) + f'(0)x + \tfrac{f^{(200)}(0)x^{200}}{200!}$
+$f(x) = x^{100}[... + \tfrac{f^{(50)}(0) x^{100}}{50!} + ...](e^{x^2}的展开式)$
+$f(x) = [... + \tfrac{x^{200}}{50!} + ...]$
+找到对应系数相同的 $\tfrac{f^{(200)}(0)x^{200}}{200!} = \tfrac{x^{200}}{50!}$ 即 $f^{(200)}(0) = \tfrac{200!}{50!}$
 
 ## 不定积分
 
@@ -42,6 +111,12 @@ description: 高数知识点梳理
   - $\int_0^{nT} f(x) = n\int_0^T f(x)$
   - $\int_a^{a+T} f(x) = n\int_0^T f(x)$
 - $\int_0^\pi xf(\sin{x}) = \tfrac{\pi}{2}\int_0^\pi f(\sin{x})$
+
+- 几何意义
+
+  - 圆 方程 = 对应面积
+
+- 反常积分敛散判别](https://www.bilibili.com/video/BV18J4119729/?spm_id_from=333.337.search-card.all.click&vd_source=76b751c6c2314509a3c85f4650ebe175)
 
 ## 定积分的应用
 

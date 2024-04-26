@@ -3,7 +3,7 @@ title: 考研日记
 author: caterpillar
 pubDatetime: 2024-04-16T00:00:00Z
 featured: false
-draft: false
+draft: true
 tags:
   - 考研日记
 description: 日记
@@ -55,8 +55,7 @@ description: 日记
 
 ## 2024年04月20日16:24:05
 
-- [x] 今天LPL春决 下午4点开始摸鱼，骑车去买鸭脖，结果关门，又骑了好久去另一家店，风好大。
-- [x] 春决好无聊，纯吊打 一点不经常。
+- [x] 今天LPL春决 下午4点开始摸鱼，骑车去买鸭脖，结果关门，又骑了好久去另一家店，风好大。春决好无聊，纯吊打 一点不精彩。
 
 ## 2024年04月21日21:15:45
 
