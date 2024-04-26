@@ -115,10 +115,10 @@ description: 单词积累
 59. ignorant
 60. petrol
 61. hedge #
-62. scarce ###
+62. `scarce` ####
 63. synthesis
 64. tension
-65. `virgin` #####
+65. `virgin` ######
 66. hazard #
 67. torture #
 68. narrative
@@ -233,7 +233,7 @@ description: 单词积累
 
 168. expectation #
 169. exception #
-170. inference ###
+170. `inference` ###
 171. insight
 172. outer
 173. imitation
@@ -249,7 +249,7 @@ description: 单词积累
 183. intrude #
 184. preside ##
 185. shed ## shed light on sth(解释 启示)
-186. agitate # agitate against(反对) agitate for (呼吁 鼓动)
+186. agitate ## agitate against(反对) agitate for (呼吁 鼓动)
 187. sketch
 188. plaster ## plaster over(掩盖)
 
@@ -268,7 +268,7 @@ description: 单词积累
 199. inspire
 200. worship #
 201. studio
-202. rigorous #
+202. rigorous ##
 203. prose
 204. headquarters
 205. annual
@@ -288,85 +288,86 @@ description: 单词积累
 216. hug
 217. extinguish
 218. blossom #
-219. suspend
+219. suspend #
 220. delicate ##
-221. destination
+221. destination #
 222. volatile #
-223. hail ##
-224. extract
-225. forbid
-226. veteran #
-227. lane
-228. cucumber
-229. charm #
-230. nursery #
-231. province #
-232. volcano
-233. affiliate
-234. foam #
-235. horrible
-236. couch
-237. region
-238. glow #
-239. band
-240. exempt #
-241. quiz #
-242. means
-243. overcome #
-244. utmost
-245. fragile
-246. attorney
-247. extensive
-248. scenario #
-249. sip #
-250. deputy
-251. campaign
-252. distress #
-253. perish
-254. agenda
-255. gender
-256. pyramid
-257. prey
-258. rival
-259. launch
-260. deserve
+223. violate
+224. hail ##
+225. extract
+226. forbid
+227. veteran #
+228. lane
+229. cucumber
+230. charm #
+231. nursery #
+232. province #
+233. volcano
+234. affiliate
+235. foam #
+236. horrible
+237. couch
+238. region
+239. glow ##
+240. band
+241. exempt #
+242. quiz #
+243. means
+244. overcome #
+245. utmost #
+246. fragile
+247. attorney
+248. extensive
+249. scenario #
+250. sip #
+251. deputy
+252. campaign
+253. distress #
+254. perish
+255. agenda
+256. gender
+257. pyramid
+258. prey
+259. rival
+260. launch
+261. deserve
 
 ## 8
 
-261. stereotype
-262. advent
-263. subtle
-264. insulate
-265. radius
-266. eminent
-267. taboo
-268. appetite
-269. deficit
-270. counsel
-271. lucrative
-272. stalk
-273. slum
-274. manipulate
-275. quest
-276. stall
-277. weep
-278. lottery
-279. harmony
-280. spin
-281. passive
-282. intact
-283. curiosity
-284. amateur
-285. drought
-286. accommodate
-287. crawl
-288. sanction
-289. disturbance
-290. awkward
-291. tariff
-292. proof
-293. scratch
-294. therapy
-295. appearance
-296. pearl
-297. cloak
+262. stereotype #
+263. advent
+264. subtle
+265. insulate
+266. radius
+267. eminent #
+268. taboo #
+269. appetite
+270. deficit #
+271. counsel
+272. lucrative
+273. stalk
+274. slum #
+275. manipulate #
+276. quest
+277. stall
+278. weep
+279. lottery
+280. harmony
+281. spin #
+282. passive
+283. intact #
+284. curiosity #
+285. amateur
+286. drought
+287. accommodate
+288. crawl
+289. sanction
+290. disturbance
+291. awkward
+292. tariff
+293. proof
+294. scratch
+295. therapy
+296. appearance
+297. pearl
+298. cloak
