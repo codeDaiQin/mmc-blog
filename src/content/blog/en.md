@@ -53,7 +53,7 @@ description: 单词积累
 ## 2
 
 1. evaluate
-2. realm ####
+2. `realm` ####
 3. perspective ##
 4. appropriate #
 5. extend #
@@ -80,7 +80,7 @@ description: 单词积累
 26. preserve #
 27. conserve
 28. contemporary #
-29. scrape ####
+29. `scrape` ####
 30. junk
 31. plunge ### plunge into(投入)
 32. formula
