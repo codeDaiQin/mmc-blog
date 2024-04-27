@@ -1,11 +1,12 @@
 ---
-title: 考研笔记-英语单词
+title: 英语单词
 author: caterpillar
 pubDatetime: 2024-04-17T00:00:00
 featured: false
 draft: false
 tags:
-  - 考研笔记 英语
+  - 考研
+  - 英语
 description: 单词积累
 ---
 
@@ -34,7 +35,7 @@ description: 单词积累
 21. `temperament` n.气质，性格；（性情）暴躁
 22. `train` n.火车，列车 v.培训，训练
 23. `indignation` n.愤愤不平，义愤
-24. `ancestor` n.祖先，祖宗；（动植物）原种；原型，雏形
+24. `ancestor` n.祖先，祖宗；（动植物）原种；原型，雏形 #
 25. `outrage` n.愤慨，愤怒；骇人听闻的事，暴行 v.使愤怒，激怒
 26. `tend to` 倾向于、往往、容易。照顾，处理
 27. `serve as` 充当
@@ -94,7 +95,7 @@ description: 单词积累
 41. gas
 42. spur ##
 43. conference #
-44. tile #
+44. tile ##
 45. premise
 46. assimilate
 47. `cruise` ######
@@ -203,7 +204,7 @@ description: 单词积累
 140. amplify
 141. plagiarism
 142. cement #
-143. starve ##
+143. starve ###
 144. rebel
 145. racial #
 146. necklace
@@ -289,7 +290,7 @@ description: 单词积累
 217. extinguish
 218. blossom #
 219. suspend #
-220. delicate ##
+220. `delicate` ####
 221. destination #
 222. volatile #
 223. violate
@@ -308,7 +309,7 @@ description: 单词积累
 236. horrible
 237. couch
 238. region
-239. glow ##
+239. glow ###
 240. band
 241. exempt #
 242. quiz #
@@ -339,30 +340,30 @@ description: 单词积累
 264. subtle
 265. insulate
 266. radius
-267. eminent #
+267. eminent ##
 268. taboo #
-269. appetite
-270. deficit #
-271. counsel
+269. appetite #
+270. deficit ##
+271. counsel #
 272. lucrative
 273. stalk
-274. slum #
-275. manipulate #
+274. slum ##
+275. manipulate ##
 276. quest
 277. stall
 278. weep
 279. lottery
 280. harmony
-281. spin #
+281. spin ##
 282. passive
-283. intact #
+283. intact ##
 284. curiosity #
 285. amateur
 286. drought
 287. accommodate
-288. crawl
+288. crawl ##
 289. sanction
-290. disturbance
+290. disturbance #
 291. awkward
 292. tariff
 293. proof
@@ -371,3 +372,37 @@ description: 单词积累
 296. appearance
 297. pearl
 298. cloak
+
+## 9
+
+299. convince
+300. explosive
+301. prestige
+302. sorrow
+303. assault
+304. organize
+305. retreat
+306. meantime
+307. lucrative
+308. rob
+309. neutral
+310. mud sling mud at sb(诽谤)
+311. consist #
+312. ceremony
+313. scatter
+314. surround
+315. tunnel #
+316. district
+317. confess #
+318. temper
+319. compress #
+320. swallow
+321. bargain #
+322. absurd #
+323. besides
+324. transparent
+325. nerve #
+326. guild
+327. tremendous #
+
+## 10

@@ -5,7 +5,7 @@ pubDatetime: 2024-04-10T00:00:00Z
 featured: false
 draft: false
 tags:
-  - 考研日记
+  - 考研
 description: 真题记录
 ---
 

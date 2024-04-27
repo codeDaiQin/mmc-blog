@@ -1,11 +1,12 @@
 ---
-title: 考研笔记-高数
+title: 高等数学
 author: caterpillar
 pubDatetime: 2024-04-18T00:00:00
 featured: false
 draft: false
 tags:
-  - 考研笔记 高数
+  - 考研
+  - 高等数学
 description: 高数知识点梳理
 ---
 

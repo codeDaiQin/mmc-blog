@@ -1,11 +1,12 @@
 ---
-title: 考研笔记-英语长难句
+title: 英语长难句
 author: caterpillar
 pubDatetime: 2024-04-15T84:84:24
 featured: false
 draft: false
 tags:
-  - 考研笔记 英语
+  - 考研
+  - 英语
 description: 英语长难句练习
 ---
 
@@ -110,3 +111,51 @@ Despite a spell of initial optimism in the 1960s and 1970s when it appeared that
 ### 翻译
 
 尽管在20世纪60年代和70年代有过一段最初的乐观时期，那时晶体管电路和微处理器似平(被认为)到 2010.年就能够复制人类大脑的活动，但研究人员最近已经开始将这一预测延后几十年，甚至几百年。
+
+## 6
+
+But the human mind can glimpse a rapidly changing scene and immediately disregard the 98 percent that is irrelevant , instantaneously focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd.
+
+### 词汇
+
+- winding a. 弯曲的、 曲折的
+- crowd n. 人群 v.聚集
+- disregard n.v. 忽视
+-
+
+### 翻译
+
+但是 人类的注意力可以看见一个迅速的变化的现象 并且 立即 无视掉 不相关的 98%， 聚焦在在森林边上路的猴子 或者 在人群中挑选出可疑面部
+
+## 7
+
+The OECD estimates in its latest Economic Outlook that, if oil prices averaged$ 22 a barrel for a full year, compared with $13 in 1998, this would increase the oil import bill in rich economies by only 0.25%~0.5% of GDP.
+
+### 词汇
+
+- oil n. 石油 v. 加油于...，给...加油
+- for a full year 一整年。 `for用来表示一个动作或状态的持续时间`
+- barrel n. 桶 v. 飞奔 把...装进桶
+
+### 翻译
+
+经济合作与发展组织(OECD)在其最新一期的《经济展望》中估计，如果油价全年平均为每桶22美元，对比1998年的(每桶)13美元，这将使富裕国家的石油进口支出只增加GDP的.0.25%至0.5%。
+
+## 8
+
+One more reason not to lose sleep `over` the rise in oil prices is that, unlike the rises in the 1970s, it has not occurred against the background of general commodity-price inflation and global excess demand.
+
+### 词汇
+
+1. against the background of 在...的背景下
+2. excess n. 过度 过量 a. 过度的
+3. occur v. 发生 来临
+4. unlike prep. 不像，和...不同；不是...的个性（或特点）；（用于对比）与...不同
+
+### 翻译
+
+不必为油价上涨而(担忧)失眠的另一个原因是，与20世纪70年代的(油价)上涨不同，这次并 不是在物价普遍上涨和全球需求过剩的背景下发生的。
+
+### 盲区补充
+
+1. over prep. 介词词性 句中表 因果

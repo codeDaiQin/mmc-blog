@@ -1,11 +1,11 @@
 ---
-title: 考研笔记-数据结构
+title: 数据结构
 author: caterpillar
 pubDatetime: 2024-04-13T18:10:51Z
 featured: false
 draft: false
 tags:
-  - 考研笔记 408
+  - 考研
   - 数据结构
 description: 数据结构
 ---

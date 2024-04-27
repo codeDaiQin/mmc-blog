@@ -1,11 +1,12 @@
 ---
-title: 考研笔记-计算机组成原理
+title: 计算机组成原理
 author: caterpillar
 pubDatetime: 2024-04-22T00:00:00
 featured: false
 draft: false
 tags:
-  - 考研笔记 计算机组成原理
+  - 考研
+  - 计算机组成原理
 description: 计算机组成原理
 ---
 

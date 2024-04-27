@@ -1,11 +1,12 @@
 ---
-title: 考研笔记-线性代数
+title: 线性代数
 author: caterpillar
 pubDatetime: 2024-04-15T84:84:24
 featured: false
 draft: false
 tags:
-  - 考研笔记 线性代数
+  - 考研
+  - 线性代数
 description: 线性代数
 ---
 
@@ -24,6 +25,12 @@ description: 线性代数
 
 ### 矩阵的秩
 
+1. $r(A^*) = n, r(A) = 1$
+2. $r(A^\*) = 1, r(A) = n -1 $
+3. $r(A^*) = 0, r(A) < n - 1$
+4. $r(A + B) \leq r(A) + r(B)$
+5. $r(AB) \leq min(r(A), r(B))$
+
 ### 伴随矩阵
 
 1. $AA^* = A^*A = |A|E$
@@ -37,12 +44,13 @@ description: 线性代数
 1. 数乘（非0） 行/列
 2. 交换某两行/列
 3. 某行/列 k倍 加到 另一行/列
-4.
 
 #### 性质和公式
 
 1. $E^T = E$
 2. $E^{-1} = E$
+3. $E_{倍乘k}^{-1} = E_{倍乘\tfrac{1}{k}} (取倒数)$
+4. $E_{倍加k}^{-1} = E_{倍加 -k} (取相反数)$
 
 ### 等价矩阵
 
