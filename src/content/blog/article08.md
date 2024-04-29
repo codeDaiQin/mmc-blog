@@ -18,6 +18,9 @@ description: 线性代数
 
 1. $A^{-1} = A 元素取倒数$
 2. A != |A|
+3. 主对角$\begin{bmatrix} A & O \\ O & B \end{bmatrix}^{n} = \begin{bmatrix} A^n & O \\ O & B^n \end{bmatrix}$
+4. 副对角\*(对调)$\begin{bmatrix} O & A \\ B & O \end{bmatrix}^{n} = \begin{bmatrix} O & B^n  \\ A^n & O \end{bmatrix}$
+5. 求$A^n = PB(对角矩阵) P^{-1} = PB^{n} P^{-1}$
 
 ### 矩阵的逆
 
@@ -25,8 +28,8 @@ description: 线性代数
 
 ### 矩阵的秩
 
-1. $r(A^*) = n, r(A) = 1$
-2. $r(A^\*) = 1, r(A) = n -1 $
+1. $r(A^{*}) = n, r(A) = 1$
+2. $r(A^{\*}) = 1, r(A) = n -1 $
 3. $r(A^*) = 0, r(A) < n - 1$
 4. $r(A + B) \leq r(A) + r(B)$
 5. $r(AB) \leq min(r(A), r(B))$
@@ -36,6 +39,7 @@ description: 线性代数
 1. $AA^* = A^*A = |A|E$
 2. $|A^*| = |A|^{n-1}$
 3. $A^* = |A|A^{-1}$
+4. 二阶矩阵求伴随 = `主对角线对调 副对角线变号`
 
 ### 初等变换和初等矩阵
 

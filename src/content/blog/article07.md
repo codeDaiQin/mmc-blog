@@ -10,6 +10,10 @@ tags:
 description: 高数知识点梳理
 ---
 
+## 三角函数
+
+1. $a\sin{x} + b\cos{x} = \sqrt{a^2 + b^2}\sin{(x + \arctan{\tfrac{b}{a}})}$
+
 ## 极限
 
 - 数列极限

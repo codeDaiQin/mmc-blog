@@ -159,3 +159,33 @@ One more reason not to lose sleep `over` the rise in oil prices is that, unlike 
 ### 盲区补充
 
 1. over prep. 介词词性 句中表 因果
+
+## 9
+
+Although it ruled that there is no constitutional right to physician-assisted suicide, the Court in effect supported the medical principle of "double effect, "a centuries old moral principle holding that an action having two effects a good one that is intended and a harmful one that is foreseen is permissible if the actor intends only the good effect.
+
+### 翻译
+
+尽管它(最高法院)裁定宪法没有赋予医生协助病人自杀的权利，但实际上法院支持“双重放果”的医疗原则，这个存在了好几个世纪的道德原则认为，具有双重效果(希望达到的好效果和可预见的坏效果)的行为是可允许的，只要行为实施者想要的仅仅是好效果。
+
+## 10
+
+Nanoy Dubler, director of Montefiore Medical Center, contends that the principle will shield doctors who “until now have very, very strongly insisted that they could not give patients sufficient medication to control their pain if that might hasten death."
+
+### 翻译
+
+蒙特非奥里医疗中心主任南希·都博勒主张，这项原则将保护一些医生，这些医生“直到现在还非常非常强烈地坚称，如果这可能会加速死亡的话，他们不能给病人开足量的药品来控制疼痛”。
+
+## 11
+
+George Annas, chair of the health law department at Boston University.maintains that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death.
+
+### 词汇
+
+- maintain v. 坚持 主张
+- patient n. 病人 a. 有耐心的
+- hasten v. 促进
+
+### 翻译
+
+波士顿大学健康法律系主任乔治·安纳斯坚持认为，只要医生开药是出于合理的医疗目的，那么即使病人使用该药物加速了死亡，医生的行为也没有违法。

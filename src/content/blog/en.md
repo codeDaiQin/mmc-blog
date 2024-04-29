@@ -195,7 +195,7 @@ description: 单词积累
 131. tribe
 132. damn #
 133. trumpet #
-134. triumph
+134. triumph #
 135. dilemma
 136. declare #
 137. punch #
@@ -260,7 +260,7 @@ description: 单词积累
 190. striking
 191. blend #
 192. tangible #
-193. compile
+193. compile #
 194. oral #
 195. attribute
 196. spite
@@ -323,7 +323,7 @@ description: 单词积累
 250. sip #
 251. deputy
 252. campaign
-253. distress #
+253. distress ##
 254. perish
 255. agenda
 256. gender
@@ -343,11 +343,11 @@ description: 单词积累
 267. eminent ##
 268. taboo #
 269. appetite #
-270. deficit ##
+270. deficit ####
 271. counsel #
 272. lucrative
-273. stalk
-274. slum ##
+273. stalk #
+274. slum ###
 275. manipulate ##
 276. quest
 277. stall
@@ -402,7 +402,91 @@ description: 单词积累
 323. besides
 324. transparent
 325. nerve #
-326. guild
+326. guild #
 327. tremendous #
 
 ## 10
+
+328. consent
+329. mandate
+330. procession #
+331. fiscal #
+332. panorama #
+333. appreciate
+334. tissue
+335. propel
+336. amuse ##
+337. vocabulary
+338. denote #
+339. substitute
+340. explode
+341. axis
+342. sensation #
+343. somehow
+344. sophisticated
+345. inn
+346. boom
+347. illiterate
+348. jaw #
+349. paradox
+350. precedent #
+351. terminate #
+352. inferior
+353. metaphor ####
+354. terrific ##
+355. alcohol #
+356. fantastic
+357. sew #
+358. orientation
+359. racket ##
+360. rocket
+361. dividend
+362. excitement #
+363. preliminary #
+364. faulty ##
+365. sword #
+366. slight
+
+## 11
+
+367. swarm
+368. interpret
+369. tram #
+370. confusion
+371. occasion
+372. dissolve
+373. victim
+374. fleet #
+375. illuminate
+376. radiate #
+377. dome #
+378. gravity ##
+379. coil #
+380. verse ## poetry # poem #
+381. whereby #
+382. medieval
+383. blanket #
+384. orchestra #
+385. canal ####
+386. troop #
+387. poisonous #
+388. velocity
+389. wreck #
+390. paradise # heaven #
+391. rug #
+392. screw #
+393. disturb
+394. herd #
+395. primitive
+396. harness #
+397. solar
+398. grasp
+399. plot ####
+400. frontier ##
+401. dwarf #
+402. draft #
+403. gaze #
+404. aftermath #
+405. allocate
+406. bias
+407. carve #
