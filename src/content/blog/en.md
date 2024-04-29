@@ -463,7 +463,7 @@ description: 单词积累
 378. gravity ##
 379. coil #
 380. verse ## poetry # poem #
-381. whereby #
+381. whereby ## = by which
 382. medieval
 383. blanket #
 384. orchestra #

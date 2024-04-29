@@ -178,7 +178,7 @@ Nanoy Dubler, director of Montefiore Medical Center, contends that the principle
 
 ## 11
 
-George Annas, chair of the health law department at Boston University.maintains that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death.
+George Annas, chair of the health law department at Boston University. maintains that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death.
 
 ### 词汇
 
@@ -189,3 +189,45 @@ George Annas, chair of the health law department at Boston University.maintains 
 ### 翻译
 
 波士顿大学健康法律系主任乔治·安纳斯坚持认为，只要医生开药是出于合理的医疗目的，那么即使病人使用该药物加速了死亡，医生的行为也没有违法。
+
+## 12
+
+The profession is taking steps to require young doctors to train in hospices, to test knowledge of aggressive pain management therapies, to develop a Medicare billing code for hospital-based care, and to develop new standards for assessing and treating pain at the end of life.
+
+### 词汇
+
+- take steps 采取措施
+- end of life 临终
+- assess v. 评估
+
+### 翻译
+
+(医疗)行业正在采取措施，要求年轻医生去(晚期病人)护理所培训，对大胆镇痛疗法的知识进行检验，为医院护理制定一份医疗保险制度的付款条例，以及为评估和治疗(病人).临终的痛苦制定新的标准。
+
+## 13
+
+Straitford’s briefs don’t sound like the usual Washington back-and-forthing, whereby agencies avoid dramatic declarations `on the chance` they might be wrong.
+
+### 词汇
+
+- sound n. 声音 v. 发声 听起来
+- on the chance 以防 怀着...希望
+- agency n. 代理 政府机构 作用
+
+### 翻译
+
+斯特雷福特公司的简报听起来不像华盛顿一贯的那样闪烁其词，政府机构通过这个(闪烁其词)来避免发布引人注目的言论，以防他们可能是错的。
+
+## 14
+
+`To paraphrase 18th-century statesman Edmund Burke, "all` (that is needed for the triumph of a misguided cause) is（that good people do nothing."）[表语从句]
+
+### 翻译
+
+用 18 世纪政治家埃德蒙柏克的话来说，“被误导的事业要成功所需的一切就是好人不作为”.
+
+### 难点
+
+1. 找谓语动词 `is needed` `is` `do`
+2. 主系表结构
+3. is needed for xx所需要的
