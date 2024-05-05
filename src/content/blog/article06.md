@@ -12,7 +12,7 @@ description: 英语长难句练习
 
 ## 1
 
-Your humor must be relevant to the audience and should help to show them that you are one of them or that you understand their situation and are in sympathy with their point of view.
+Your humor must `be` relevant to the audience and should `help` to show them that you `are` one of them or that you `understand` their situation and `are` in sympathy with their point of view.
 
 ### 词汇
 
@@ -231,3 +231,16 @@ Straitford’s briefs don’t sound like the usual Washington back-and-forthing,
 1. 找谓语动词 `is needed` `is` `do`
 2. 主系表结构
 3. is needed for xx所需要的
+
+## 15
+
+For example, a grandmotherly woman staffing an animal rights booth at a recent street fair was distributing a brochure that encouraged readers not to use anything that comes from or is tested in animals no meat, no fur, no medicines.
+
+`For example, a woman staffing a booth at a recent street fair`(主语) `was distributing`(谓语动词) (a brochure) that `encouraged` readers not to `use` anything that `comes` from or `is` tested in animals no meat, no fur, no medicines.
+
+主谓宾结构 过去进行时
+
+### 词汇
+
+- brochure n. 小册子
+- street fair n. 街头集市
