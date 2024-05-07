@@ -74,6 +74,11 @@ todo https://www.bilibili.com/video/BV1K14y1d79p?p=3&vd_source=76b751c6c2314509a
   - $f(x)在(a, b)连续 且 \displaystyle\lim_{x->b-} \displaystyle\lim_{x->a+}存在 -> 在(a, b)有界$
   - $f'(x)在有限开区间有界 —> f(x)在区间有界$
 
+极值 拐点
+
+- 在x=a处二阶导 = 0 => f(a)不是极值点
+- 在x=a处三阶导 != 0 => (a, f(a)) 是拐点
+
 ### 高阶导数
 
 #### 奇偶性
