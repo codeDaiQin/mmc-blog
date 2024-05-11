@@ -398,7 +398,7 @@ description: 单词积累
 319. compress #
 320. swallow
 321. bargain ##
-322. absurd ##
+322. absurd ###
 323. besides
 324. transparent
 325. nerve #
@@ -410,7 +410,7 @@ description: 单词积累
 328. consent
 329. mandate
 330. procession ##
-331. fiscal ##
+331. fiscal ###
 332. panorama #
 333. appreciate
 334. tissue
@@ -496,12 +496,12 @@ description: 单词积累
 
 409. dash ###
 410. barn #
-411. disclose ###
+411. `disclose` ####
 412. beard
 413. `slump` ######
 414. idle ##
 415. stun #
-416. `steep` ####
+416. `steep` ######
 417. so-called
 418. dimension
 419. `hum` ######
@@ -513,7 +513,7 @@ description: 单词积累
 425. boot
 426. disease #
 427. mathematical
-428. `gown` #######
+428. `gown` ########
 429. auction
 430. thumb #
 431. `slot` ####
@@ -530,12 +530,12 @@ description: 单词积累
 ## 13
 
 441. ornament ##
-442. subordinate ###
+442. `subordinate` ####
 443. vocal #
 444. plug #
 445. persuasion
 446. turbulent #
-447. mirror #
+447. mirror ##
 448. literally
 449. abroad
 450. aboard #
@@ -584,10 +584,10 @@ description: 单词积累
 487. thesis
 488. deadly #
 489. exploit
-490. curb #
+490. curb ##
 491. eliminate
 492. embed
-493. `mess` #######
+493. `mess` ########
 494. suspicious
 495. simulate
 496. recognition
@@ -604,11 +604,11 @@ description: 单词积累
 507. evoke #
 508. comprise #
 509. speciality
-510. gross ###
-511. `stadium` #####
+510. `gross` ####
+511. `stadium` ######
 512. `vicinity` ####
 513. arrest
-514. merchant ###
+514. `merchant` ####
 515. lens ##
 516. discourse ##
 517. `orphan` ####
@@ -634,14 +634,14 @@ description: 单词积累
 534. seminar
 535. moderate
 536. rescue
-537. penalty ##
-538. `cabin` ####
+537. penalty ###
+538. `cabin` #####
 539. morality ###
-540. `mortgage` #####
+540. `mortgage` #######
 541. bulletin #
 542. algorithm
-543. tuck ##
-544. sake
+543. `tuck` ####
+544. sake #
 545. derive
 546. debut ##
 547. weary ##
@@ -653,29 +653,29 @@ description: 单词积累
 550. harsh
 551. stiff ###
 552. backward #
-553. pasture #
+553. pasture ###
 554. chemist
 555. fraction
 556. fancy
 557. trench #
 558. battery
 559. diagnose
-560. fraud ###
-561. lawn ##
+560. `fraud` ####
+561. `lawn` ####
 562. compact #
 563. coupon ###
 564. heal ##
-565. heel #
+565. `heel` ####
 566. gear ##
 567. highway
-568. theft
+568. theft #
 569. copper ##
-570. ribbon ##
+570. ribbon ###
 571. pepper #
 572. golf #
 573. singular
-574. priest ###
-575. kit #
+574. `priest` #####
+575. kit ##
 576. dizzy #
 577. murmur #
 578. scenery #
@@ -685,31 +685,131 @@ description: 单词积累
 ## 18
 
 581. brake
-582. refuge
+582. refuge #
 583. advantage
 584. implicit
-585. spot
+585. spot ##
 586. senior
 587. rent
-588. breast
-589. dull
-590. inhale
-591. resort
-592. portrait
-593. barrel
-594. prayer
-595. rein
-596. loosen
-597. perplex
-598. setback
-599. perpetual
-600. bay
-601. torch
-602. gallery
-603. colonial
-604. rear
-605. jam
-606. misfortune
-607. tone
-608. mild
-609. toll
+588. breast #
+589. dull ##
+590. toll #
+591. inhale #
+592. resort #
+593. portrait ###
+594. barrel ###
+595. prayer ##
+596. rein #
+597. loosen ##
+598. perplex ###
+599. setback #
+600. perpetual ##
+601. `bay` #####
+602. `torch` ####
+603. gallery
+604. colonial
+605. `rear` ####
+606. jam #
+607. misfortune
+608. tone ###
+609. mild ##
+610. surgery
+
+## 19
+
+611. prohibit #
+612. anniversary
+613. faculty
+614. minority
+615. interim
+616. raw #
+617. textile
+618. signature
+619. tube #
+620. mill #
+621. puff #
+622. fuss ##
+623. furnish ###
+624. exotic ##
+625. barrier
+626. erase
+627. wedge
+628. mercy ##
+629. hip #
+630. `menace` ####
+631. glare #
+632. `flesh` ####
+633. `melt` ####
+634. grace
+635. dye ###
+636. jealous #
+637. imperative
+638. orbit
+639. lever ##
+640. massacre
+641. brutal ##
+642. steward ###
+643. clause
+644. accumulate
+645. mortal ###
+646. fossil
+647. corridor ##
+648. bang
+649. scrap ##
+650. sigh #
+651. flock
+652. paddle ###
+653. giggle #
+654. no more than 不超过，仅仅
+
+## 20
+
+655. earnest
+656. rhythm #
+657. pension
+658. rally
+659. marathon #
+660. avenue
+661. toxic #
+662. loyalty
+663. gesture #
+664. bureau #
+665. casualty
+666. erupt
+667. radar
+668. vicious
+669. breach #
+670. tragic #
+671. ethnic
+672. drone #
+673. ample
+674. alphabet
+675. terror #
+676. stab #
+677. suck #
+678. dialect #
+679. hesitate ###
+680. coach #
+681. helmet
+
+## 21
+
+682. decisive
+683. petition
+684. onion ##
+685. tragedy #
+686. reservoir
+687. betray #
+688. widow #
+689. culprit #
+690. surveillance #
+691. obligation #
+692. stir
+693. chew #
+694. gamble
+695. canteen
+696. commemorate
+697. spoil
+698. grave #
+
+## 22

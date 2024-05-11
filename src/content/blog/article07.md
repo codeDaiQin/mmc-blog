@@ -131,6 +131,10 @@ $f(x) = [... + \tfrac{x^{200}}{50!} + ...]$
 
 - 反常积分敛散判别](https://www.bilibili.com/video/BV18J4119729/?spm_id_from=333.337.search-card.all.click&vd_source=76b751c6c2314509a3c85f4650ebe175)
 
+- 中值定理
+
+- 伽马函数
+
 ## 定积分的应用
 
 - 绕x轴y轴 任意直线旋转体体积
