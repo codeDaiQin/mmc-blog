@@ -21,6 +21,7 @@ description: 线性代数
 3. 主对角$\begin{bmatrix} A & O \\ O & B \end{bmatrix}^{n} = \begin{bmatrix} A^n & O \\ O & B^n \end{bmatrix}$
 4. 副对角\*(对调)$\begin{bmatrix} O & A \\ B & O \end{bmatrix}^{n} = \begin{bmatrix} O & B^n  \\ A^n & O \end{bmatrix}$
 5. 求$A^n = PB(对角矩阵) P^{-1} = PB^{n} P^{-1}$
+6. $(A+B)^T = A^T + B^T$ (只有转置可以)
 
 ### 矩阵的逆
 
@@ -34,6 +35,8 @@ description: 线性代数
 3. $r(A^*) = 0, r(A) < n - 1$
 4. $r(A + B) \leq r(A) + r(B)$
 5. $r(AB) \leq min(r(A), r(B))$
+6. $AB = O, r(A) + r(B) \leq n$
+7. 非零矩阵的秩r≥1
 
 ### 伴随矩阵
 
@@ -60,7 +63,6 @@ description: 线性代数
 ### 等价矩阵
 
 1. 同形 r(A) = r(B)
-2.
 
 ## 线性方程组
 
@@ -77,3 +79,39 @@ $r(A) = r([A, b]) = r < n, 有无穷多解$
 $Ax=0: 总有解，至少有0解$
 $A_{m \times n}x=0: r(A) = n，只有0解；r(A) < n，有无穷多解$
 $A_{m \times n}x=b: r(A) != r([A, b])，无解；r(A) = r([A, b]) = n，有唯一解；r(A) = r([A, b]) = r < n，有无穷多解$
+
+## 向量组
+
+## 特征值和特征向量
+
+### 特征值性质
+
+1. 特征值的和 = tr(A)
+2. 特征值的乘积 = |A|
+
+### 矩阵的相似
+
+存在可莉矩阵 P 使得 $P^{-1}AP = B 则 A相似于B$，A~B
+
+1. r(A) = r(B)
+2. |A| = |B|
+3. $|\lambda{E} - A| = |\lambda{E} - B|$
+4. A、B有相同的特征值
+5. $A^m$~$B^m$, $f(A)$ ~ $f(B)$, $A^T$~$B^T$, $A^*$~$B^*$，
+6. A + kE ~ B + kE
+
+### 实对称矩阵
+
+1. 不同特征值对应的特征向量相互正交
+2. 对角线元素为特征值
+
+## 二次型
+
+### 标准形
+
+$\Sigma_{i=1}^n 特征值_i \times y_i^2$
+
+### 惯性定理
+
+1. 正负惯性指数 = 特征值的正负个数
+2. 二次型的秩r = p + q (正负惯性指数之和)
