@@ -98,7 +98,7 @@ description: 单词积累
 44. tile ##
 45. premise
 46. assimilate
-47. `cruise` #######
+47. `cruise` ########
 
 ## 2
 
@@ -139,7 +139,7 @@ description: 单词积累
 82. curl
 83. bastard
 84. mourn
-85. creep ###
+85. `creep` ####
 86. rot ##
 87. rob #
 88. leap
@@ -217,7 +217,7 @@ description: 单词积累
 153. pulse
 154. apart
 155. apartment #
-156. accommodation ###
+156. `accommodation` ####
 157. nuisance ##
 158. levy
 159. complain #
@@ -225,7 +225,7 @@ description: 单词积累
 161. `grieve` #######
 162. naive
 163. excess
-164. pregnant ##
+164. pregnant ###
 165. shuttle ##
 166. compose
 167. snack ###
@@ -348,7 +348,7 @@ description: 单词积累
 272. counsel #
 273. lucrative
 274. `stalk` ####
-275. `slum` ####
+275. `slum` #####
 276. manipulate ##
 277. quest
 278. stall
@@ -726,7 +726,7 @@ description: 单词积累
 617. textile
 618. signature
 619. tube #
-620. mill #
+620. mill ##
 621. puff #
 622. `fuss` #####
 623. `furnish` ####
@@ -745,9 +745,9 @@ description: 单词积累
 636. jealous #
 637. imperative ##
 638. orbit
-639. lever ##
+639. lever ###
 640. massacre
-641. brutal ##
+641. brutal ###
 642. `steward` ####
 643. clause
 644. accumulate
@@ -883,7 +883,7 @@ description: 单词积累
 759. sober
 760. sue
 761. nightmare
-762. `bleak` ########
+762. `bleak` #########
 763. clue
 764. scare #
 765. claw
@@ -911,7 +911,7 @@ description: 单词积累
 784. conservation
 785. ozone
 786. vague
-787. `polish` ####
+787. `polish` #####
 788. ditch #
 789. threshold
 790. patrol ##
@@ -941,7 +941,7 @@ description: 单词积累
 811. hire
 812. shortcoming
 813. dozen
-814. sway ###
+814. `sway` ####
 
 ## 27
 
@@ -963,9 +963,9 @@ description: 单词积累
 
 ## 28
 
-830. `pharmacy` #####
-831. eccentric #
-832. bother ###
+830. `pharmacy` ######
+831. eccentric ##
+832. `bother` ####
 833. rag ##
 834. lightning
 835. robe
@@ -974,14 +974,14 @@ description: 单词积累
 838. lubricate ##
 839. wave
 840. kick
-841. prophet ###
-842. `poultry` ####
+841. `prophet` ####
+842. `poultry` #####
 843. dump #
 844. damp #
 845. rumor ##
-846. magistrate ##
+846. magistrate ###
 847. disperse
-848. preclude
+848. preclude #
 849. struggle
 
 ## 29
@@ -990,16 +990,16 @@ description: 单词积累
 851. cassette #
 852. `soluble` ####
 853. timid
-854. distill ##
+854. distill ###
 855. tongue
-856. tilt ##
+856. tilt ###
 857. goose
 858. emperor ##
-859. tourist tour
+859. tourist # tour
 860. linear
 861. glide
-862. slipper #
-863. `turmoil` ####
+862. slipper ##
+863. `turmoil` #####
 864. wholesome
 865. deceive
 866. escort
@@ -1007,40 +1007,76 @@ description: 单词积累
 ## 30
 
 867. thrust ##
-868. dinosaur #
-869. scramble #
-870. molecule #
-871. owl #
-872. shaft ###
-873. flat ##
-874. fringe #
-875. bend #
+868. dinosaur ##
+869. scramble ##
+870. molecule ##
+871. owl ##
+872. `shaft` ####
+873. flat ###
+874. fringe ##
+875. bend ##
 876. blade #
 877. surge #
 878. dawn
 879. mushroom
-880. devil
+880. devil #
 881. sailor #
 882. quart
 883. isle
-884. riot #
+884. riot ##
 885. postage
-886. saint #
-887. ashore
-888. prisoner
-889. pendulum
+886. saint ##
+887. ashore ##
+888. prisoner #
+889. pendulum #
 890. tan
 891. pour
 892. feeble
 893. severity
-894. governance
+894. governance #
 895. overshadow
 896. corporation
-897. exude
-898. poise
+897. exude #
+898. poise #
 899. charisma
 
 ## 31
 
 900. climax
-901. strand
+901. strand #
+902. harassment
+903. diabetes
+904. monitor
+905. lend
+906. bathe
+907. razor #
+908. swan
+909. jargon #
+910. gentle #
+911. tale #
+912. redundant
+913. memorandum
+914. don #
+915. be backed by 依靠 #
+916. trigger
+917. ever
+918. notice
+919. cheerful
+920. uplift #
+921. hue #
+922. elegance
+923. attire
+924. facilitate
+925. underpin
+926. excite
+927. roll out # 推出
+928. inspiration
+929. beefed-up # 被加强的
+930. respond with # 答复 以...回应
+931. banter #
+932. outweigh
+933. cliff
+
+## 32
+
+934. metre
