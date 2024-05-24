@@ -292,7 +292,7 @@ description: 单词积累
 219. blossom #
 220. suspend #
 221. `delicate` ######
-222. destination ##
+222. destination ###
 223. volatile ###
 224. violate
 225. hail ###
@@ -574,7 +574,7 @@ description: 单词积累
 480. slippery # slip #
 481. swell ##
 482. opera ##
-483. `clumsy` ####
+483. `clumsy` #####
 484. fabulous
 485. appendix ##
 486. entrepreneur
@@ -635,7 +635,7 @@ description: 单词积累
 535. moderate
 536. rescue
 537. `penalty` ####
-538. `cabin` ##### cabinet #
+538. `cabin` ##### cabinet ##
 539. morality ###
 540. `mortgage` ########
 541. bulletin #
@@ -644,7 +644,7 @@ description: 单词积累
 544. sake #
 545. derive
 546. debut ###
-547. `weary` ####
+547. `weary` #####
 
 ## 17
 
@@ -705,7 +705,7 @@ description: 单词积累
 599. setback #
 600. perpetual ##
 601. `bay` #####
-602. `torch` ######
+602. `torch` #######
 603. gallery
 604. colonial
 605. `rear` ####
@@ -805,7 +805,7 @@ description: 单词积累
 690. surveillance ##
 691. obligation #
 692. stir
-693. chew ###
+693. `chew` ####
 694. gamble
 695. canteen ##
 696. commemorate
@@ -1011,7 +1011,7 @@ description: 单词积累
 869. scramble ##
 870. `molecule` ######
 871. owl ##
-872. `shaft` #######
+872. `shaft` ########
 873. flat ###
 874. fringe ##
 875. bend ##
@@ -1081,7 +1081,7 @@ description: 单词积累
 
 934. metre
 935. discrete ###
-936. archive ###
+936. `archive` ####
 937. carbon ##
 938. ceiling #
 939. catalog #
@@ -1091,9 +1091,9 @@ description: 单词积累
 943. glacier #
 944. fog ##
 945. plumber #
-946. sleeve ##
+946. sleeve ###
 947. idiot ###
-948. `funeral` #########
+948. `funeral` ##########
 949. coronavirus
 950. retrieve #
 951. lemon
@@ -1118,12 +1118,34 @@ description: 单词积累
 967. shore
 968. nickel
 969. queer #
-970. saddle ##
-971. tune #
+970. saddle ###
+971. tune ##
 972. oxygen
 973. smash #
-974. hose #
+974. hose ##
 975. expertise
 976. astronaut
 977. outburst
 978. lifetime
+
+## 34
+
+979. ecology
+980. calm
+981. hall
+982. ferry
+983. secretary
+984. dive
+985. texture
+986. cable
+987. oar
+988. ripe
+989. whale
+990. submarine
+991. mammal
+992. sink
+993. diameter
+994. sore
+995. vase
+996. thigh
+997. adjacent adjoin
