@@ -265,7 +265,7 @@ description: 单词积累
 195. oral #
 196. attribute
 197. spite
-198. chapter #
+198. chapter ##
 199. amid
 200. inspire
 201. worship #
@@ -298,7 +298,7 @@ description: 单词积累
 225. hail ###
 226. extract
 227. forbid
-228. veteran ###
+228. `veteran` ####
 229. lane
 230. cucumber
 231. charm ##
@@ -391,7 +391,7 @@ description: 单词积累
 312. ceremony #
 313. scatter
 314. surround
-315. tunnel ###
+315. `tunnel` ####
 316. district
 317. confess #
 318. temper
@@ -841,7 +841,7 @@ description: 单词积累
 723. dean #
 724. coincide #
 725. divert
-726. `tropic` #####
+726. `tropic` ######
 727. freight ##
 728. tease #
 729. `sneak` ######
@@ -854,12 +854,12 @@ description: 单词积累
 ## 23
 
 735. spiritual
-736. feast ###
+736. `feast` ####
 737. calculate
 738. bump #
 739. erect #
 740. analogy
-741. `laundry` ####
+741. `laundry` #####
 742. `tremble` ######
 743. puppet
 744. utter #
@@ -977,7 +977,7 @@ description: 单词积累
 841. `prophet` #####
 842. `poultry` #######
 843. dump #
-844. damp ###
+844. `damp` ####
 845. rumor ###
 846. `magistrate` ####
 847. disperse
@@ -1016,11 +1016,11 @@ description: 单词积累
 874. fringe ##
 875. bend ##
 876. blade #
-877. surge ###
+877. `surge` ####
 878. dawn #
 879. mushroom
 880. `devil` ####
-881. sailor # sail ##
+881. sailor # sail ###
 882. quart
 883. isle
 884. riot ##
@@ -1045,14 +1045,14 @@ description: 单词积累
 900. climax
 901. strand ###
 902. harassment
-903. diabetes #
+903. diabetes ##
 904. monitor #
 905. lend
 906. bathe
 907. razor #
 908. swan #
 909. jargon #
-910. gentle ##
+910. gentle ###
 911. tale ##
 912. redundant
 913. memorandum
@@ -1081,7 +1081,7 @@ description: 单词积累
 
 934. metre
 935. discrete ###
-936. `archive` ####
+936. `archive` #####
 937. carbon ##
 938. ceiling #
 939. catalog #
@@ -1101,7 +1101,7 @@ description: 单词积累
 953. `tender` ####
 954. petroleum ##
 955. sponge #
-956. bolster ###
+956. `bolster` ####
 957. portray
 958. rallying cry # 口号
 959. church
@@ -1125,27 +1125,90 @@ description: 单词积累
 974. hose ##
 975. expertise
 976. astronaut
-977. outburst
+977. outburst #
 978. lifetime
 
 ## 34
 
 979. ecology
-980. calm
+980. calm ##
 981. hall
 982. ferry
-983. secretary
+983. secretary #
 984. dive
 985. texture
 986. cable
 987. oar
 988. ripe
 989. whale
-990. submarine
-991. mammal
-992. sink
-993. diameter
+990. submarine #
+991. mammal #
+992. sink #
+993. diameter #
 994. sore
 995. vase
-996. thigh
+996. thigh #
 997. adjacent adjoin
+
+## 35
+
+998. furniture #
+999. pavement
+1000. crew #
+1001. comet
+1002. gadget #
+1003. marble ##
+1004. reptile ##
+1005. probable
+1006. moist ##
+1007. maintenance
+1008. persecute #
+1009. jewel
+1010. imperial #
+
+## 36
+
+1011. scent
+1012. hole
+1013. repression
+1014. peel
+1015. lick
+1016. scream
+1017. broadcast #
+1018. pave
+1019. gain
+1020. mosquito
+1021. staircase
+1022. lodge #
+
+## 37
+
+1023. drown
+1024. credential
+1025. catastrophe
+1026. ash
+1027. skeleton
+1028. hill
+1029. diplomatic
+1030. quiver
+1031. acre
+1032. shabby #
+1033. camp #
+1034. redeem #
+1035. pant #
+1036. minus #
+1037. brace
+1038. merchandise #
+1039. herald ##
+
+## 38
+
+1040. friction ##
+1041. erode #
+1042. likelihood
+1043. balcony #
+1044. sarcastic
+1045. hygiene
+1046. strife
+1047. kettle
+1048. exact
