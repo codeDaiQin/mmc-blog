@@ -1209,7 +1209,7 @@ description: 单词积累
 1043. balcony ##
 1044. sarcastic
 1045. hygiene
-1046. strife
+1046. strife #
 1047. kettle #
 1048. exact
 1049. sob #
