@@ -372,7 +372,7 @@ description: 单词积累
 360. `absurd` ####
 361. besides
 362. transparent
-363. nerve #
+363. nerve ##
 364. guild #
 365. `tremendous` ####
 366. consent
@@ -412,7 +412,7 @@ description: 单词积累
 400. dividend
 401. `excitement` ####
 402. preliminary #
-403. faulty ###
+403. `faulty` ####
 404. sword #
 405. slight
 406. swarm
@@ -583,7 +583,7 @@ description: 单词积累
 571. seminar
 572. moderate
 573. rescue
-574. `penalty` ####
+574. `penalty` ######
 575. `cabin` ##### cabinet ##
 576. morality ###
 577. `mortgage` #########
@@ -614,7 +614,7 @@ description: 单词积累
 602. `heel` ######
 603. gear ##
 604. highway
-605. theft ###
+605. `theft` ####
 606. thief
 607. copper ###
 608. `ribbon` ####
@@ -649,7 +649,7 @@ description: 单词积累
 637. setback #
 638. perpetual ##
 639. `bay` #####
-640. `torch` #######
+640. `torch` ########
 641. gallery
 642. colonial
 643. `rear` ####
@@ -736,7 +736,7 @@ description: 单词积累
 724. reservoir
 725. betray ##
 726. widow #
-727. culprit ##
+727. culprit ###
 728. surveillance ##
 729. obligation #
 730. stir
@@ -777,7 +777,7 @@ description: 单词积累
 765. freight ##
 766. tease #
 767. `sneak` ######
-768. skim ##
+768. skim ###
 769. `seal` ####
 770. protein ###
 771. maid #
@@ -877,7 +877,7 @@ description: 单词积累
 865. dare #
 866. `snobbish` ####
 867. appraisal #
-868. `pharmacy` ######
+868. `pharmacy` #######
 869. `eccentric` #########
 870. `bother` #####
 871. `rag` ####
@@ -889,7 +889,7 @@ description: 单词积累
 877. wave
 878. kick
 879. `prophet` ######
-880. `poultry` #######
+880. `poultry` ########
 881. dump #
 882. `damp` ####
 883. rumor ###
@@ -930,7 +930,7 @@ description: 单词积累
 918. sailor # sail ###
 919. quart
 920. isle
-921. riot ##
+921. riot ###
 922. postage
 923. saint ###
 924. ashore ##
@@ -944,8 +944,8 @@ description: 单词积累
 932. overshadow
 933. corporation
 934. exude #
-935. poise ###
-936. charisma #
+935. `poise` ####
+936. charisma ##
 937. climax
 938. strand ###
 939. harassment
@@ -954,13 +954,13 @@ description: 单词积累
 942. lend
 943. bathe
 944. razor #
-945. swan #
+945. swan ##
 946. jargon #
 947. gentle ###
 948. tale ##
 949. redundant
 950. memorandum
-951. don #
+951. don ##
 952. be backed by 依靠 #
 953. trigger
 954. ever
@@ -998,13 +998,13 @@ description: 单词积累
 986. coronavirus
 987. retrieve #
 988. lemon
-989. towel ##
+989. `towel` ####
 990. tower #
 991. tow #
 992. `tender` ####
 993. petroleum ###
 994. sponge #
-995. `bolster` ####
+995. `bolster` #####
 996. portray
 997. rallying cry # 口号
 998. church
@@ -1026,7 +1026,7 @@ description: 单词积累
 1014. astronaut
 1015. outburst #
 1016. lifetime
-1017. ecology
+1017. ecology #
 1018. `calm` ####
 1019. hall
 1020. ferry
@@ -1039,7 +1039,7 @@ description: 单词积累
 1027. whale
 1028. submarine #
 1029. mammal #
-1030. sink #
+1030. sink ##
 1031. diameter #
 1032. sore
 1033. vase
@@ -1049,7 +1049,7 @@ description: 单词积累
 1037. pavement
 1038. crew #
 1039. comet
-1040. gadget #
+1040. gadget ##
 1041. marble ##
 1042. reptile ##
 1043. probable
@@ -1068,7 +1068,7 @@ description: 单词积累
 1056. pave
 1057. gain
 1058. mosquito
-1059. staircase stair
+1059. staircase stair #
 1060. lodge ##
 1061. drown #
 1062. credential #
@@ -1081,7 +1081,7 @@ description: 单词积累
 1069. acre
 1070. shabby #
 1071. camp ##
-1072. `redeem` #####
+1072. `redeem` ######
 1073. `pant` ####
 1074. minus #
 1075. brace
@@ -1134,7 +1134,7 @@ description: 单词积累
 1122. mutter #
 1123. slaughter ##
 1124. excursion ##
-1125. mineral ##
+1125. mineral ###
 1126. quarantine #
 1127. keep in
 1128. weave
@@ -1142,31 +1142,33 @@ description: 单词积累
 1130. corn #
 1131. meditation ###
 1132. grammar
-1133. divine #
+1133. divine ###
 1134. reed #
 1135. flood
 1136. rust
-1137. daunting #
+1137. daunting ##
 1138. smooth #
 1139. hasty
 1140. terrify
 1141. snatch
-1142. bacteria ##
+1142. bacteria ###
 1143. blast #
 1144. amend
 1145. fountain
 1146. fax #
 1147. tutor #
-1148. meadow ###
+1148. `meadow` #####
 1149. steer
-1150. humid
+1150. humid #
 1151. debt
 1152. diet ###
-1153. appal
-1154. escalate
-1155. contingent #
-1156. gratitude
-1157. wagon
-1158. deed
-1159. maneuver
+1153. appal #
+1154. escalate ##
+1155. contingent ##
+1156. gratitude #
+1157. wagon ###
+1158. deed #
+1159. maneuver #
 1160. doubt
+1161. bedrock
+1162. censorship
