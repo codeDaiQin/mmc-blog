@@ -266,13 +266,13 @@ description: 单词积累
 254. liberty
 255. hug
 256. extinguish
-257. blossom #
+257. blossom ##
 258. suspend #
 259. `delicate` #######
 260. `destination` ####
 261. volatile ###
 262. violate
-263. hail ###
+263. `hail` ####
 264. extract
 265. forbid
 266. `veteran` ####
@@ -799,7 +799,7 @@ description: 单词积累
 787. `benign` #####
 788. dam ##
 789. indulge
-790. `tomb` ####
+790. `tomb` #####
 791. `limb` #####
 792. parliament
 793. swear ###
@@ -869,7 +869,7 @@ description: 单词积累
 857. patriotic #
 858. mingle
 859. staple ###
-860. exile #
+860. exile ##
 861. locker #
 862. pillar
 863. reassure #
@@ -1073,7 +1073,7 @@ description: 单词积累
 1061. drown #
 1062. credential #
 1063. catastrophe
-1064. ash #
+1064. ash ##
 1065. skeleton
 1066. hill
 1067. diplomatic #
@@ -1124,7 +1124,7 @@ description: 单词积累
 1112. vacuum
 1113. denial
 1114. `tumour` ####
-1115. hatch ###
+1115. `hatch` ####
 1116. paradigm ###
 1117. theoretical
 1118. lofty ###
@@ -1150,25 +1150,39 @@ description: 单词积累
 1138. smooth #
 1139. hasty
 1140. terrify
-1141. snatch
+1141. snatch #
 1142. bacteria ###
 1143. blast #
 1144. amend
-1145. fountain
+1145. fountain #
 1146. fax #
 1147. tutor #
-1148. `meadow` #####
+1148. `meadow` ######
 1149. steer
 1150. humid #
 1151. debt
 1152. diet ###
 1153. appal #
-1154. escalate ##
+1154. escalate ###
 1155. contingent ##
 1156. gratitude #
-1157. wagon ###
+1157. `wagon` ####
 1158. deed #
 1159. maneuver #
 1160. doubt
 1161. bedrock
 1162. censorship
+1163. chimney
+1164. soap
+1165. pronunciation
+1166. bewilder
+1167. municipal
+1168. doll
+1169. capsule
+1170. compartment
+1171. kidney
+1172. drill
+1173. announce
+1174. trousers
+1175. overcoat
+1176. stance
