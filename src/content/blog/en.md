@@ -54,7 +54,7 @@ description: 单词积累
 42. embody #
 43. `immerse` #######
 44. nurture ##
-45. narture
+45. nature
 46. emphasize #
 47. outlook #
 48. exceptional #
