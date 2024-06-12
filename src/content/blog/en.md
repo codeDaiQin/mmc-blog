@@ -230,7 +230,7 @@ description: 单词积累
 217. `veteran` ####
 218. lane
 219. cucumber
-220. charm ###
+220. `charm` ####
 221. nursery ##
 222. province ##
 223. volcano
@@ -283,7 +283,7 @@ description: 单词积累
 270. harmony
 271. spin ###
 272. passive
-273. `intact` ####
+273. `intact` #####
 274. curiosity #
 275. amateur #
 276. drought #
@@ -359,7 +359,7 @@ description: 单词积累
 346. sew ##
 347. saw
 348. orientation
-349. `racket` ####
+349. `racket` #####
 350. rocket
 351. dividend
 352. `excitement` ####
@@ -525,7 +525,7 @@ description: 单词积累
 512. wardrobe ##
 513. lung #
 514. glove
-515. `inertia` ####
+515. `inertia` #####
 516. bud ###
 517. sacrifice
 518. roundabout
@@ -573,7 +573,7 @@ description: 单词积累
 560. pepper #
 561. golf #
 562. singular
-563. `priest` #########
+563. `priest` ##########
 564. `kit` ####
 565. dizzy #
 566. murmur #
@@ -659,7 +659,7 @@ description: 单词积累
 646. pension #
 647. rally
 648. marathon #
-649. avenue
+649. `avenue` ####
 650. toxic ##
 651. loyalty
 652. gesture #
@@ -684,7 +684,7 @@ description: 单词积累
 671. decisive
 672. `petition` ####
 673. onion ##
-674. `tragedy` ####
+674. `tragedy` #####
 675. reservoir
 676. betray ##
 677. widow #
@@ -710,7 +710,7 @@ description: 单词积累
 697. rat
 698. awful ##
 699. propagate #
-700. endorse #
+700. endorse ##
 701. knot ##
 702. `hierarchy` ####
 703. destiny ##
@@ -732,8 +732,8 @@ description: 单词积累
 719. skim ###
 720. `seal` ####
 721. protein ###
-722. maid #
-723. `flee` ####
+722. maid ##
+723. `flee` ######
 724. spiritual
 725. `feast` ####
 726. calculate
@@ -1077,7 +1077,7 @@ description: 单词积累
 1064. denial
 1065. `tumour` ####
 1066. `hatch` ####
-1067. paradigm ###
+1067. `paradigm` ####
 1068. theoretical
 1069. lofty ###
 1070. bake ##
@@ -1091,10 +1091,10 @@ description: 单词积累
 1078. keep in
 1079. weave
 1080. rejoice ###
-1081. corn #
+1081. corn ##
 1082. meditation ###
 1083. grammar
-1084. divine ###
+1084. `divine` ####
 1085. reed #
 1086. flood
 1087. rust
@@ -1109,7 +1109,7 @@ description: 单词积累
 1096. fountain #
 1097. fax #
 1098. tutor #
-1099. `meadow` ######
+1099. `meadow` #######
 1100. steer
 1101. humid #
 1102. debt
@@ -1139,4 +1139,86 @@ description: 单词积累
 1126. overcoat
 1127. stance
 1128. quality
-1129. servant
+1129. servant #
+1130. weapon #
+1131. porcelain #
+1132. pedestrian #
+1133. brochure #
+1134. `collide` #####
+1135. grocer ##
+1136. hinge ##
+1137. satellite #
+1138. pole ###
+1139. poet
+1140. haul #
+1141. lecture #
+1142. overt ##
+1143. harbor ###
+1144. grip
+1145. ladder
+1146. ritual #
+1147. pity
+1148. dentist #
+1149. peasant #
+1150. needle #
+1151. knee
+1152. predator ##
+1153. stool #
+1154. rotten
+1155. alienate ###
+1156. pond ###
+1157. mould
+1158. judicial
+1159. erosion #
+1160. cripple
+1161. silly ##
+1162. spectator #
+1163. aloud #
+1164. sibling #
+1165. lunar
+1166. smuggle
+1167. knit
+1168. dairy
+1169. salvation #
+1170. `pillow` ####
+1171. shoot ###
+1172. resign ##
+1173. inward #
+1174. land ##
+1175. gramme #
+1176. intercourse
+1177. tempo #
+1178. banquet #
+1179. coalition #
+1180. permeate
+1181. polar #
+1182. distant
+1183. affection
+1184. temporal
+1185. joy
+1186. navy
+1187. cradle
+1188. gang
+1189. deck
+1190. bore
+1191. willing
+1192. latent
+1193. bow
+1194. shelf
+1195. palace
+1196. cheque
+1197. oath #
+1198. bible
+1199. bowling
+1200. cyberspace
+1201. vest
+1202. accessory
+1203. mayor
+1204. nourish
+1205. hut
+1206. irrigate
+1207. reconcile
+1208. bully
+1209. fluctuate
+1210. shade #
+1211. consecutive
