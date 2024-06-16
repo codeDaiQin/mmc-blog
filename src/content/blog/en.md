@@ -245,7 +245,7 @@ description: 单词积累
 232. eminent ###
 233. taboo ##
 234. appetite #
-235. `deficit` #######
+235. `deficit` ########
 236. counsel ##
 237. lucrative
 238. `stalk` ####
@@ -295,7 +295,7 @@ description: 单词积累
 282. temper
 283. compress #
 284. swallow
-285. bargain ##
+285. bargain ###
 286. `absurd` #####
 287. besides
 288. transparent
@@ -716,7 +716,7 @@ description: 单词积累
 703. erect #
 704. analogy
 705. `laundry` #####
-706. `tremble` ######
+706. `tremble` #######
 707. puppet
 708. utter #
 709. boast #
@@ -1305,3 +1305,33 @@ description: 单词积累
 1292. waist
 1293. bracket
 1294. truck
+1295. album #
+1296. awe
+1297. dial
+1298. cashier
+1299. fasten ##
+1300. polite #
+1301. fertilizer
+1302. stamp
+1303. oak
+1304. plane
+1305. refute
+1306. whisky
+1307. bandage
+1308. carpet ##
+1309. wicked #
+1310. cruel #
+1311. leaflet
+1312. receipt
+1313. solemn
+1314. whip
+1315. latitude
+1316. mentor
+1317. fry
+1318. cellar #
+1319. liner
+1320. tenant ##
+1321. ankle
+1322. courage
+1323. resilient
+1324. majesty
