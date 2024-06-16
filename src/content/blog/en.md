@@ -97,7 +97,7 @@ description: 单词积累
 85. `converge` ####
 86. tide #
 87. acute #
-88. liver ##
+88. liver ###
 89. applaud #
 90. epoch ###
 91. desperate #
@@ -306,7 +306,7 @@ description: 单词积累
 293. mandate
 294. procession ##
 295. fiscal ###
-296. panorama ##
+296. panorama ###
 297. appreciate
 298. tissue
 299. propel
@@ -339,7 +339,7 @@ description: 单词积累
 326. dividend ##
 327. `excitement` ####
 328. preliminary #
-329. `faulty` ####
+329. `faulty` #####
 330. sword #
 331. slight
 332. swarm
@@ -374,7 +374,7 @@ description: 单词积累
 361. harness ##
 362. solar
 363. grasp
-364. `plot` ########
+364. `plot` #########
 365. frontier ###
 366. dwarf #
 367. draft #
@@ -496,7 +496,7 @@ description: 单词积累
 483. slide
 484. impress #
 485. deprive
-486. brick ##
+486. `brick` ####
 487. wardrobe ##
 488. lung #
 489. glove
@@ -543,7 +543,7 @@ description: 单词积累
 530. highway
 531. `theft` ####
 532. thief
-533. copper ###
+533. `copper` ####
 534. `ribbon` #####
 535. pepper #
 536. golf #
@@ -609,11 +609,11 @@ description: 单词积累
 596. `flesh` ######
 597. `melt` #######
 598. grace #
-599. `dye` #####
+599. `dye` ######
 600. jealous #
 601. imperative ##
 602. orbit
-603. `lever` ####
+603. `lever` #####
 604. massacre
 605. brutal ###
 606. `steward` #####
@@ -678,7 +678,7 @@ description: 单词积累
 665. `annoy` ######
 666. portable #
 667. spray ###
-668. divorce #
+668. divorce ##
 669. `fatigue` #######
 670. `comic` #######
 671. handy #
@@ -697,7 +697,7 @@ description: 单词积累
 684. implement #
 685. spectacle #
 686. clap ##
-687. dean #
+687. dean ##
 688. coincide #
 689. divert
 690. `tropic` ######
@@ -765,7 +765,7 @@ description: 单词积累
 752. ditch #
 753. threshold
 754. `patrol` ####
-755. fur ###
+755. `fur` ####
 756. trash #
 757. lame
 758. plague ###
@@ -976,9 +976,9 @@ description: 单词积累
 963. adjacent adjoin
 964. furniture ####
 965. pavement
-966. crew #
-967. comet
-968. gadget ##
+966. crew ##
+967. comet #
+968. gadget ###
 969. marble ###
 970. reptile ##
 971. probable
@@ -1056,10 +1056,10 @@ description: 单词积累
 1043. `hatch` ######
 1044. `paradigm` #####
 1045. theoretical
-1046. lofty ###
+1046. `lofty` ####
 1047. bake ###
 1048. rifle ##
-1049. tape ###
+1049. `tape` ####
 1050. mutter #
 1051. slaughter ###
 1052. excursion ###
@@ -1164,7 +1164,7 @@ description: 单词积累
 1151. land ##
 1152. `gramme` ####
 1153. intercourse
-1154. tempo #
+1154. tempo ##
 1155. banquet ##
 1156. `coalition` #####
 1157. permeate
@@ -1202,7 +1202,7 @@ description: 单词积累
 1189. coverage ##
 1190. gasp #
 1191. chill ##
-1192. spicy
+1192. spicy #
 1193. captain ##
 1194. pleasant
 1195. crop
@@ -1238,7 +1238,7 @@ description: 单词积累
 1225. originate
 1226. sausage #
 1227. pork
-1228. beg ##
+1228. beg ###
 1229. chase
 1230. rib ##
 1231. cage #
@@ -1253,30 +1253,55 @@ description: 单词积累
 1240. contract
 1241. `decimal` ####
 1242. ham #
-1243. saucer ##
+1243. saucer ###
 1244. flavor #
 1245. scold ##
 1246. stationery #
 1247. `rock` ####
-1248. pine ##
-1249. bowl #
+1248. pine ###
+1249. bowl ##
 1250. trip
 1251. devastating
 1252. lamb ##
-1253. sparkle
+1253. sparkle #
 1254. arrow
 1255. pride ##
 1256. shatter #
 1257. valve #
-1258. shepherd ###
-1259. loaf
+1258. `shepherd` ####
+1259. loaf #
 1260. namely #
 1261. communism
 1262. van
-1263. limp #
+1263. limp ##
 1264. toe ##
 1265. patron #
 1266. elicit ##
-1267. digest ##
-1268. precaution
+1267. digest ###
+1268. precaution #
 1269. anguish #
+1270. trademark
+1271. bitter ##
+1272. soda
+1273. moisture
+1274. huddle #
+1275. cattle
+1276. solitary
+1277. overtake #
+1278. lad
+1279. ton
+1280. spade #
+1281. clutch #
+1282. tiresome
+1283. flare
+1284. vegetation
+1285. rehearse ##
+1286. survey #
+1287. pneumonia
+1288. hen
+1289. denote
+1290. nominate
+1291. assassinate
+1292. waist
+1293. bracket
+1294. truck
