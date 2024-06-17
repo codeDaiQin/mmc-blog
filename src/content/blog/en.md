@@ -145,7 +145,7 @@ description: 单词积累
 132. proportion
 133. expectation #
 134. exception #
-135. `inference` ###
+135. `inference` #####
 136. insight
 137. outer
 138. imitation
@@ -244,8 +244,8 @@ description: 单词积累
 231. radius
 232. eminent ###
 233. taboo ##
-234. appetite #
-235. `deficit` ########
+234. appetite ##
+235. `deficit` #########
 236. counsel ##
 237. lucrative
 238. `stalk` ####
@@ -314,7 +314,7 @@ description: 单词积累
 301. vocabulary
 302. denote #
 303. substitute
-304. explode
+304. explode #
 305. axis
 306. sensation #
 307. somehow
@@ -357,7 +357,7 @@ description: 单词积累
 344. `verse` #### poetry # poem #
 345. whereby ## = by which
 346. medieval
-347. `blanket` #####
+347. `blanket` ######
 348. orchestra ##
 349. `canal` ###########
 350. `troop` ########
@@ -376,7 +376,7 @@ description: 单词积累
 363. grasp
 364. `plot` #########
 365. frontier ###
-366. dwarf #
+366. dwarf ##
 367. draft #
 368. gaze #
 369. aftermath #
@@ -394,7 +394,7 @@ description: 单词积累
 381. so-called
 382. dimension
 383. `hum` ######
-384. `canoe` ###########
+384. `canoe` ############
 385. `enclosure` #########
 386. `genre` ########
 387. carrier #
@@ -548,13 +548,13 @@ description: 单词积累
 535. pepper #
 536. golf #
 537. singular
-538. `priest` ############
+538. `priest` #############
 539. `kit` ####
 540. dizzy #
 541. murmur #
 542. scenery ##
 543. epic ##
-544. `palm` ##### take the palm=take the win
+544. `palm` ###### take the palm=take the win
 545. brake
 546. refuge ##
 547. advantage
@@ -722,7 +722,7 @@ description: 单词积累
 709. boast #
 710. glue
 711. competent
-712. cosmic ## cosmos ###
+712. cosmic ### cosmos ###
 713. `benign` #####
 714. dam ##
 715. indulge
@@ -744,7 +744,7 @@ description: 单词积累
 731. deteriorate
 732. inventory ##
 733. flatter ###
-734. pump ###
+734. `pump` ####
 735. expedition ###
 736. lumber #
 737. bald ###
@@ -1011,10 +1011,10 @@ description: 单词积累
 998. shabby #
 999. `camp` ####
 1000. `redeem` #######
-1001. `pant` ####
+1001. `pant` #####
 1002. minus #
 1003. brace
-1004. merchandise #
+1004. merchandise ###
 1005. `herald` ######
 1006. `friction` ####
 1007. `erode` ####
@@ -1081,10 +1081,10 @@ description: 单词积累
 1068. terrify #
 1069. snatch #
 1070. `bacteria` ######
-1071. `blast` ####
-1072. amend #
+1071. `blast` #####
+1072. amend ##
 1073. `fountain` ####
-1074. fax ##
+1074. fax ###
 1075. tutor ##
 1076. `meadow` #########
 1077. steer
@@ -1209,7 +1209,7 @@ description: 单词积累
 1196. `whistle` #####
 1197. ascend
 1198. cereal ###
-1199. fellow #
+1199. fellow ##
 1200. centigrade #
 1201. appeal
 1202. intelligible
@@ -1240,7 +1240,7 @@ description: 单词积累
 1227. pork
 1228. beg ###
 1229. chase
-1230. rib ##
+1230. rib ###
 1231. cage #
 1232. discretion
 1233. albeit #
@@ -1278,15 +1278,15 @@ description: 单词积累
 1265. patron #
 1266. elicit ##
 1267. digest ###
-1268. precaution #
-1269. anguish #
+1268. precaution ##
+1269. anguish ##
 1270. trademark
 1271. bitter ##
 1272. soda
-1273. moisture
-1274. huddle #
+1273. moisture #
+1274. huddle ###
 1275. cattle
-1276. solitary
+1276. solitary ##
 1277. overtake #
 1278. lad
 1279. ton
@@ -1295,43 +1295,93 @@ description: 单词积累
 1282. tiresome
 1283. flare
 1284. vegetation
-1285. rehearse ##
-1286. survey #
-1287. pneumonia
+1285. rehearse ###
+1286. survey ##
+1287. pneumonia #
 1288. hen
 1289. denote
-1290. nominate
+1290. nominate #
 1291. assassinate
 1292. waist
-1293. bracket
+1293. bracket #
 1294. truck
-1295. album #
-1296. awe
-1297. dial
-1298. cashier
-1299. fasten ##
+1295. album ##
+1296. awe #
+1297. dial ##
+1298. cashier #
+1299. fasten ###
 1300. polite #
 1301. fertilizer
 1302. stamp
-1303. oak
+1303. oak #
 1304. plane
 1305. refute
 1306. whisky
 1307. bandage
-1308. carpet ##
-1309. wicked #
+1308. carpet ###
+1309. wicked ##
 1310. cruel #
-1311. leaflet
+1311. leaflet #
 1312. receipt
-1313. solemn
+1313. solemn #
 1314. whip
 1315. latitude
-1316. mentor
+1316. mentor #
 1317. fry
 1318. cellar #
 1319. liner
 1320. tenant ##
-1321. ankle
+1321. ankle #
 1322. courage
-1323. resilient
+1323. resilient #
 1324. majesty
+1325. enormous
+1326. force
+1327. revive
+1328. minister
+1329. edible
+1330. complicated
+1331. adverse
+1332. offspring
+1333. candy
+1334. dwell
+1335. orchard
+1336. direction
+1337. temple
+1338. degenerate
+1339. aspire
+1340. lantern
+1341. revolt
+1342. ponder
+1343. wax
+1344. ore
+1345. satire
+1346. quarrel #
+1347. voyage
+1348. foul
+1349. supersonic
+1350. colonel
+1351. intermittent
+1352. generalize
+1353. spine
+1354. brevity
+1355. diploma #
+1356. sock
+1357. nylon
+1358. pet
+1359. fragrant ##
+1360. poll
+1361. stereo
+1362. treaty #
+1363. convict #
+1364. dental ##
+1365. ivory
+1366. plantation
+1367. clerk #
+1368. stupid
+1369. cemetery #
+1370. trim
+1371. choir
+1372. mist
+1373. cricket
+1374. peep
