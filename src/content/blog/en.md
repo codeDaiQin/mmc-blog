@@ -51,7 +51,7 @@ description: 单词积累
 39. exceptional ##
 40. discern ##
 41. preserve ##
-42. junk #
+42. junk ##
 43. `plunge` ######## plunge into(投入)
 44. slim ##
 45. range over #
@@ -276,7 +276,7 @@ description: 单词积累
 263. cloak #
 264. explosive
 265. prestige
-266. sorrow ##
+266. sorrow ###
 267. assault
 268. organize
 269. retreat
@@ -369,7 +369,7 @@ description: 单词积累
 356. `screw` ##########
 357. disturb #
 358. herd ##
-359. `herb` ####
+359. `herb` #####
 360. `primitive` ####
 361. harness ##
 362. solar
@@ -491,7 +491,7 @@ description: 单词积累
 478. lens ##
 479. discourse ##
 480. `orphan` #####
-481. jog ##
+481. jog ###
 482. tablet ###
 483. slide
 484. impress #
@@ -722,7 +722,7 @@ description: 单词积累
 709. boast #
 710. glue
 711. competent
-712. cosmic ### cosmos ###
+712. `cosmic` #### cosmos ###
 713. `benign` #####
 714. dam ##
 715. indulge
@@ -1112,14 +1112,14 @@ description: 单词积累
 1099. kidney ##
 1100. `drill` ######
 1101. announce #
-1102. trousers ##
+1102. trousers ###
 1103. overcoat
 1104. stance ##
 1105. quality
 1106. servant #
 1107. weapon #
 1108. porcelain ##
-1109. pedestrian #
+1109. pedestrian ##
 1110. brochure #
 1111. `collide` #########
 1112. grocer ###
@@ -1132,7 +1132,7 @@ description: 单词积累
 1119. overt ###
 1120. `harbor` #####
 1121. grip
-1122. ladder
+1122. ladder #
 1123. ritual #
 1124. pity
 1125. dentist #
@@ -1166,7 +1166,7 @@ description: 单词积累
 1153. intercourse
 1154. tempo ##
 1155. banquet ##
-1156. `coalition` #####
+1156. `coalition` ######
 1157. permeate
 1158. `polar` #####
 1159. distant
@@ -1253,7 +1253,7 @@ description: 单词积累
 1240. contract
 1241. `decimal` #####
 1242. ham #
-1243. saucer ###
+1243. `saucer` ####
 1244. flavor #
 1245. scold ##
 1246. stationery #
@@ -1268,12 +1268,12 @@ description: 单词积累
 1255. pride ###
 1256. shatter #
 1257. valve #
-1258. `shepherd` #####
+1258. `shepherd` ######
 1259. loaf #
 1260. namely #
 1261. communism
 1262. van
-1263. limp ##
+1263. limp ###
 1264. toe ##
 1265. patron #
 1266. elicit ##
@@ -1284,13 +1284,13 @@ description: 单词积累
 1271. bitter ##
 1272. soda
 1273. moisture #
-1274. huddle ###
+1274. `huddle` ####
 1275. cattle
 1276. solitary ##
 1277. overtake #
 1278. lad #
 1279. ton
-1280. spade ##
+1280. `spade` ####
 1281. clutch #
 1282. tiresome
 1283. flare
@@ -1300,16 +1300,16 @@ description: 单词积累
 1287. pneumonia #
 1288. hen
 1289. denote
-1290. nominate ###
+1290. `nominate` ####
 1291. assassinate #
 1292. waist #
 1293. bracket #
 1294. truck
-1295. `album` ####
-1296. awe #
+1295. `album` #####
+1296. awe ##
 1297. dial ##
-1298. cashier #
-1299. fasten ###
+1298. cashier ###
+1299. `fasten` ####
 1300. polite #
 1301. fertilizer
 1302. stamp
@@ -1320,20 +1320,20 @@ description: 单词积累
 1307. bandage
 1308. `carpet` ####
 1309. wicked ##
-1310. cruel ##
+1310. cruel ###
 1311. leaflet ##
-1312. receipt
-1313. solemn ###
+1312. receipt #
+1313. `solemn` ####
 1314. whip
 1315. latitude #
 1316. mentor ##
 1317. fry
 1318. cellar #
 1319. liner
-1320. tenant ###
+1320. `tenant` ####
 1321. ankle #
 1322. courage
-1323. resilient ###
+1323. `resilient` ####
 1324. majesty #
 1325. enormous
 1326. force
@@ -1345,43 +1345,50 @@ description: 单词积累
 1332. offspring
 1333. candy
 1334. dwell
-1335. orchard
+1335. orchard #
 1336. direction
-1337. temple
+1337. temple #
 1338. degenerate
 1339. aspire
-1340. lantern
+1340. lantern #
 1341. revolt
-1342. ponder
-1343. wax
+1342. ponder #
+1343. wax #
 1344. ore
 1345. satire
 1346. quarrel #
-1347. voyage
-1348. foul
+1347. voyage #
+1348. foul #
 1349. supersonic
 1350. colonel
 1351. intermittent
 1352. generalize
-1353. spine
-1354. brevity
+1353. spine ##
+1354. brevity #
 1355. diploma #
-1356. sock
+1356. sock #
 1357. nylon
-1358. pet
-1359. fragrant ##
+1358. pet ###
+1359. fragrant ###
 1360. poll
 1361. stereo
-1362. treaty #
+1362. treaty ##
 1363. convict #
-1364. dental ##
-1365. ivory
+1364. dental ###
+1365. ivory #
 1366. plantation
-1367. clerk #
-1368. stupid
+1367. clerk ##
+1368. stupid #
 1369. cemetery #
 1370. trim
-1371. choir
-1372. mist
+1371. choir #
+1372. mist ##
 1373. cricket
-1374. peep
+1374. peep ##
+1375. poster
+1376. belt
+1377. jolly
+1378. certify
+1379. reproach
+1380. fame
+1381. fond
