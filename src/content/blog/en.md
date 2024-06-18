@@ -976,7 +976,7 @@ description: 单词积累
 963. adjacent adjoin
 964. furniture ####
 965. pavement
-966. crew ##
+966. crew ###
 967. comet #
 968. gadget ###
 969. marble ###
@@ -1227,7 +1227,7 @@ description: 单词积累
 1214. forum #
 1215. custody #
 1216. garment #
-1217. heap ### pile ##
+1217. heap ### pile ###
 1218. bail #
 1219. plough
 1220. pit ##
@@ -1251,7 +1251,7 @@ description: 单词积累
 1238. retort ##
 1239. mountain
 1240. contract
-1241. `decimal` ####
+1241. `decimal` #####
 1242. ham #
 1243. saucer ###
 1244. flavor #
@@ -1265,10 +1265,10 @@ description: 单词积累
 1252. lamb ##
 1253. sparkle #
 1254. arrow
-1255. pride ##
+1255. pride ###
 1256. shatter #
 1257. valve #
-1258. `shepherd` ####
+1258. `shepherd` #####
 1259. loaf #
 1260. namely #
 1261. communism
@@ -1279,7 +1279,7 @@ description: 单词积累
 1266. elicit ##
 1267. digest ###
 1268. precaution ##
-1269. anguish ##
+1269. anguish ###
 1270. trademark
 1271. bitter ##
 1272. soda
@@ -1288,9 +1288,9 @@ description: 单词积累
 1275. cattle
 1276. solitary ##
 1277. overtake #
-1278. lad
+1278. lad #
 1279. ton
-1280. spade #
+1280. spade ##
 1281. clutch #
 1282. tiresome
 1283. flare
@@ -1300,12 +1300,12 @@ description: 单词积累
 1287. pneumonia #
 1288. hen
 1289. denote
-1290. nominate #
-1291. assassinate
-1292. waist
+1290. nominate ###
+1291. assassinate #
+1292. waist #
 1293. bracket #
 1294. truck
-1295. album ##
+1295. `album` ####
 1296. awe #
 1297. dial ##
 1298. cashier #
@@ -1314,27 +1314,27 @@ description: 单词积累
 1301. fertilizer
 1302. stamp
 1303. oak #
-1304. plane
+1304. plane #
 1305. refute
 1306. whisky
 1307. bandage
-1308. carpet ###
+1308. `carpet` ####
 1309. wicked ##
-1310. cruel #
-1311. leaflet #
+1310. cruel ##
+1311. leaflet ##
 1312. receipt
-1313. solemn #
+1313. solemn ###
 1314. whip
-1315. latitude
-1316. mentor #
+1315. latitude #
+1316. mentor ##
 1317. fry
 1318. cellar #
 1319. liner
-1320. tenant ##
+1320. tenant ###
 1321. ankle #
 1322. courage
-1323. resilient #
-1324. majesty
+1323. resilient ###
+1324. majesty #
 1325. enormous
 1326. force
 1327. revive
