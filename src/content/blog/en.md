@@ -73,7 +73,7 @@ description: 单词积累
 61. `scarce` #####
 62. synthesis #
 63. tension ##
-64. `virgin` #######
+64. `virgin` #########
 65. hazard ###
 66. torture ##
 67. speculate ##
@@ -163,7 +163,7 @@ description: 单词积累
 150. shed ## shed light on sth(解释 启示)
 151. agitate ### agitate against(反对) agitate for (呼吁 鼓动)
 152. sketch #
-153. `plaster` #### plaster over(掩盖)
+153. `plaster` ##### plaster over(掩盖)
 154. bronze
 155. striking
 156. blend #
@@ -178,7 +178,7 @@ description: 单词积累
 165. worship #
 166. studio
 167. rigorous ##
-168. prose
+168. prose #
 169. headquarters
 170. annual
 171. currency
@@ -597,7 +597,7 @@ description: 单词积累
 584. mill ###
 585. puff #
 586. `fuss` #####
-587. `furnish` ######
+587. `furnish` #######
 588. `exotic` ####
 589. barrier
 590. erase
@@ -746,8 +746,8 @@ description: 单词积累
 733. flatter ###
 734. `pump` ####
 735. expedition ###
-736. lumber #
-737. bald ###
+736. lumber
+737. `bald` ####
 738. `stroke` ####
 739. blank
 740. liquor ##
@@ -1392,3 +1392,28 @@ description: 单词积累
 1379. reproach
 1380. fame
 1381. fond
+1382. refund
+1383. dazzle ##
+1384. gauge ##
+1385. revenge #
+1386. salute #
+1387. fellowship
+1388. diagram ###
+1389. tray #
+1390. venue #
+1391. chalk ###
+1392. perfume
+1393. jail #
+1394. convene
+1395. commonplace
+1396. testimony
+1397. husband
+1398. ascertain #
+1399. plight
+1400. jazz
+1401. straw
+1402. thirsty
+1403. obedient
+1404. murder
+1405. wooden
+1406. gulf
