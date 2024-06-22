@@ -195,7 +195,7 @@ description: 单词积累
 182. `destination` ####
 183. volatile ###
 184. violate
-185. `hail` ####
+185. `hail` #####
 186. extract
 187. forbid
 188. `veteran` ####
@@ -361,7 +361,7 @@ description: 单词积累
 348. velocity
 349. `wreck` #####
 350. `paradise` ##### heaven #
-351. `rug` #####
+351. `rug` ######
 352. `screw` ##########
 353. disturb #
 354. herd ##
@@ -417,7 +417,7 @@ description: 单词积累
 404. plug #
 405. persuasion
 406. turbulent #
-407. `mirror` ####
+407. `mirror` #####
 408. literally
 409. abroad
 410. aboard #
@@ -728,7 +728,7 @@ description: 单词积累
 715. swear ###
 716. scandal #
 717. impetus
-718. `pedal` ####
+718. `pedal` #####
 719. sober
 720. sue
 721. nightmare
@@ -1102,7 +1102,7 @@ description: 单词积累
 1089. pronunciation #
 1090. bewilder ##
 1091. municipal #
-1092. doll
+1092. doll #
 1093. capsule #
 1094. compartment #
 1095. kidney ##
@@ -1117,7 +1117,7 @@ description: 单词积累
 1104. porcelain ##
 1105. pedestrian ##
 1106. brochure #
-1107. `collide` #########
+1107. `collide` ##########
 1108. grocer ###
 1109. hinge ### hinge on
 1110. satellite ##
@@ -1301,7 +1301,7 @@ description: 单词积累
 1288. waist #
 1289. bracket #
 1290. truck
-1291. `album` ######
+1291. `album` #######
 1292. awe ###
 1293. dial ##
 1294. cashier ###
@@ -1390,7 +1390,7 @@ description: 单词积累
 1377. fond
 1378. refund
 1379. dazzle ##
-1380. `gauge` ####
+1380. `gauge` #####
 1381. revenge ##
 1382. salute #
 1383. fellowship
@@ -1410,7 +1410,7 @@ description: 单词积累
 1397. straw
 1398. thirsty #
 1399. obedient #
-1400. murder ##
+1400. murder ###
 1401. wooden #
 1402. gulf #
 1403. corner #
@@ -1422,28 +1422,74 @@ description: 单词积累
 1409. plural ##
 1410. temptation
 1411. dynasty #
-1412. vibrate
+1412. vibrate #
 1413. tailor
 1414. contrive
 1415. shutter
 1416. evacuate
-1417. drum
+1417. drum #
 1418. semester #
 1419. endow
-1420. wrench
-1421. exclaim
+1420. wrench ##
+1421. exclaim #
 1422. beast
 1423. stoop
 1424. indignant #
 1425. adverb
 1426. rectangle
 1427. groan
-1428. famine #
+1428. famine ##
 1429. chemistry #
 1430. proposal #
-1431. broom #
-1432. torment #
+1431. broom ##
+1432. torment ##
 1433. shiver #
 1434. dread
-1435. cathedral #
+1435. cathedral ###
 1436. pants
+1437. mob #
+1438. rubber #
+1439. infrared ##
+1440. plain #
+1441. ambulance #
+1442. denounce ##
+1443. chin ##
+1444. clinic ###
+1445. suburb #
+1446. penetrate #
+1447. nephew
+1448. lavatory #
+1449. cupboard #
+1450. proximate #
+1451. facet #
+1452. kidnap #
+1453. coward ##
+1454. laser #
+1455. sentence #
+1456. cave #
+1457. subtract #
+1458. optimum
+1459. gut #
+1460. wrinkle ##
+1461. beverage ##
+1462. blush ##
+1463. nostalgic ##
+1464. configuration
+1465. dish ##
+1466. cotton ##
+1467. crust ##
+1468. stomach ##
+1469. `bounce` ####
+1470. symmetry ##
+1471. picnic ##
+1472. thick ###
+1473. sophomore ##
+1474. ignite ##
+1475. adventure
+1476. ridge ##
+1477. relish ##
+1478. powder ###
+1479. burst
+1480. frog
+1481. candle
+1482. twin
