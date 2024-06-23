@@ -350,7 +350,7 @@ description: 单词积累
 337. radiate ###
 338. dome #
 339. `gravity` ###########
-340. `verse` #### poetry # poem #
+340. `verse` #### poetry # poem ##
 341. whereby ## = by which
 342. medieval
 343. `blanket` ######
@@ -1538,3 +1538,29 @@ description: 单词积累
 1525. ray
 1526. pistol
 1527. pebble
+1528. grope #
+1529. analogue #
+1530. thrift
+1531. vapour #
+1532. surname
+1533. stagnant ##
+1534. dignity ##
+1535. envelope ##
+1536. glitter #
+1537. skull #
+1538. buffet
+1539. reckless
+1540. torrent ##
+1541. garage ##
+1542. locomotive #
+1543. longitude #
+1544. odor #
+1545. shrug #
+1546. grief #
+1547. gum
+1548. dessert #
+1549. deaf #
+1550. rope #
+1551. tidy #
+1552. opinion
+1553. allegation
