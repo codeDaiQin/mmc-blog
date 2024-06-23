@@ -970,7 +970,7 @@ description: 单词积累
 957. vase
 958. thigh #
 959. adjacent adjoin
-960. furniture ####
+960. `furniture` #####
 961. pavement
 962. crew ###
 963. comet #
@@ -996,7 +996,7 @@ description: 单词积累
 983. staircase # stair # stairway #
 984. lodge ##
 985. `drown` #####
-986. credential #
+986. credential ##
 987. catastrophe
 988. ash ##
 989. skeleton #
@@ -1274,7 +1274,7 @@ description: 单词积累
 1261. toe ##
 1262. patron #
 1263. elicit ##
-1264. digest ###
+1264. `digest` ####
 1265. precaution ##
 1266. anguish ###
 1267. trademark
@@ -1446,7 +1446,7 @@ description: 单词积累
 1433. torment ##
 1434. shiver #
 1435. dread
-1436. `cathedral` ####
+1436. `cathedral` #####
 1437. pants
 1438. mob #
 1439. rubber #
@@ -1518,10 +1518,10 @@ description: 单词积累
 1505. freelance
 1506. agreeable #
 1507. haste #
-1508. `spoon` ####
+1508. `spoon` #####
 1509. carriage ##
 1510. allege
-1511. `cordial` ####
+1511. `cordial` #####
 1512. `basin` #####
 1513. circumference #
 1514. slam ###
@@ -1531,7 +1531,10 @@ description: 单词积累
 1518. `hoist` ####
 1519. scheme
 1520. badminton #
-1521. stipulate ##
+1521. stipulate ###
 1522. arrogant #
 1523. impulse
 1524. approve
+1525. ray
+1526. pistol
+1527. pebble
