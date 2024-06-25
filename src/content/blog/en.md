@@ -198,7 +198,7 @@ description: 单词积累
 185. utmost #
 186. fragile
 187. extensive
-188. scenario #
+188. scenario ##
 189. sip #
 190. distress ###
 191. pyramid
@@ -254,7 +254,7 @@ description: 单词积累
 241. besides
 242. transparent
 243. nerve ##
-244. guild #
+244. guild ##
 245. `tremendous` ####
 246. consent
 247. mandate
@@ -1514,4 +1514,21 @@ description: 单词积累
 1501. slender
 1502. greedy
 1503. benevolent
-1504. pest
+1504. pest #
+1505. retention #
+1506. dine
+1507. prosecute #
+1508. grease #
+1509. overhaul #
+1510. naughty #
+1511. tin
+1512. knob #
+1513. thunder #
+1514. deplete #
+1515. zigzag
+1516. pale #
+1517. plenty #
+1518. eagle #
+1519. equity #
+1520. hound #
+1521. blaze #
