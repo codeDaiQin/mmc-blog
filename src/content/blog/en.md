@@ -264,7 +264,7 @@ description: 单词积累
 251. appreciate
 252. tissue
 253. propel
-254. `amuse` ######
+254. `amuse` #######
 255. vocabulary
 256. substitute
 257. explode #
@@ -463,7 +463,7 @@ description: 单词积累
 450. trench #
 451. battery
 452. diagnose
-453. `fraud` ######
+453. `fraud` #######
 454. `lawn` #####
 455. compact #
 456. `coupon` #####
@@ -596,7 +596,7 @@ description: 单词积累
 583. gamble #
 584. canteen ##
 585. commemorate
-586. `spoil` ######
+586. `spoil` #######
 587. grave #
 588. grand
 589. preparation
@@ -620,13 +620,13 @@ description: 单词积累
 607. hawk ##
 608. loan #
 609. implement #
-610. spectacle #
+610. spectacle ##
 611. clap ##
 612. dean ##
 613. coincide #
 614. divert
 615. `tropic` ######
-616. freight ##
+616. freight ###
 617. tease #
 618. `sneak` ######
 619. skim ###
@@ -694,7 +694,7 @@ description: 单词积累
 681. trash #
 682. lame
 683. plague ###
-684. blunt #
+684. blunt ###
 685. vitamin
 686. bruise #
 687. `slave` #####
@@ -1091,7 +1091,7 @@ description: 单词积累
 1078. `gramme` ####
 1079. intercourse
 1080. tempo ##
-1081. banquet ##
+1081. banquet ###
 1082. `coalition` ######
 1083. permeate
 1084. `polar` #####
@@ -1484,8 +1484,8 @@ description: 单词积累
 1471. shoulder
 1472. vein
 1473. brass ##
-1474. feudal #
-1475. passport #
+1474. feudal ##
+1475. passport ##
 1476. nest
 1477. presume #
 1478. continent
@@ -1497,7 +1497,7 @@ description: 单词积累
 1484. inverse
 1485. yawn ##
 1486. wheat
-1487. petty
+1487. petty #
 1488. refrigerator
 1489. avail
 1490. detain
@@ -1520,15 +1520,45 @@ description: 单词积累
 1507. prosecute #
 1508. grease #
 1509. overhaul #
-1510. naughty #
+1510. naughty ##
 1511. tin
-1512. knob #
+1512. knob ##
 1513. thunder #
 1514. deplete #
 1515. zigzag
 1516. pale #
-1517. plenty #
+1517. plenty ##
 1518. eagle #
 1519. equity #
-1520. hound #
+1520. hound ##
 1521. blaze #
+1522. orthodox
+1523. worst
+1524. sturdy
+1525. contagious
+1526. actress
+1527. castle
+1528. tub
+1529. submerge
+1530. burglar #
+1531. landlady
+1532. coast
+1533. tangle
+1534. steel
+1535. dual
+1536. applause
+1537. pardon
+1538. tedious #
+1539. auditorium
+1540. stagger
+1541. oven
+1542. napkin
+1543. brow
+1544. proficiency
+1545. remnant
+1546. rebellion
+1547. motor #
+1548. clay #
+1549. sane
+1550. wound
+1551. farewell
