@@ -694,7 +694,7 @@ description: 单词积累
 682. pillar
 683. reassure #
 684. cop
-685. dare #
+685. dare ##
 686. `snobbish` ####
 687. appraisal #
 688. `pharmacy` #######
@@ -958,7 +958,7 @@ description: 单词积累
 946. fax ###
 947. tutor ##
 948. `meadow` ##########
-949. steer
+949. steer #
 950. `humid` #####
 951. debt #
 952. diet ###
@@ -1203,7 +1203,7 @@ description: 单词积累
 1191. candy
 1192. dwell
 1193. orchard #
-1194. direction
+1194. direction #
 1195. temple #
 1196. degenerate
 1197. aspire
@@ -1534,3 +1534,7 @@ description: 单词积累
 1522. vinegar
 1523. lyric
 1524. thirst
+1525. stimulus
+1526. occur
+1527. exert
+1528. mobilize
