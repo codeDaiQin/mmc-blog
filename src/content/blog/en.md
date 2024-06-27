@@ -424,7 +424,7 @@ description: 单词积累
 411. `gross` ######
 412. `stadium` #######
 413. `vicinity` #####
-414. arrest
+414. arrest #
 415. `merchant` ####
 416. discourse ##
 417. `orphan` #####
@@ -1228,7 +1228,7 @@ description: 单词积累
 1215. `album` ########
 1216. awe ###
 1217. dial ##
-1218. cashier ###
+1218. `cashier` ####
 1219. `fasten` #####
 1220. polite #
 1221. fertilizer
@@ -1267,7 +1267,7 @@ description: 单词积累
 1254. revolt
 1255. ponder #
 1256. wax #
-1257. ore
+1257. ore #
 1258. quarrel ###
 1259. voyage #
 1260. foul ##
@@ -1283,7 +1283,7 @@ description: 单词积累
 1270. `pet` ####
 1271. `fragrant` ####
 1272. poll
-1273. stereo
+1273. stereo #
 1274. treaty ###
 1275. convict ##
 1276. dental ###
@@ -1384,7 +1384,7 @@ description: 单词积累
 1371. subtract ##
 1372. optimum
 1373. gut ##
-1374. wrinkle ##
+1374. `wrinkle` #####
 1375. beverage ##
 1376. blush ###
 1377. `nostalgic` ####
@@ -1423,7 +1423,7 @@ description: 单词积累
 1410. contaminate ###
 1411. quilt ###
 1412. briefcase #
-1413. `hurricane` #####
+1413. `hurricane` ######
 1414. `turbine` ####
 1415. shampoo ###
 1416. situate
@@ -1438,13 +1438,13 @@ description: 单词积累
 1425. `basin` ######
 1426. circumference #
 1427. slam ###
-1428. `garlic` ####
+1428. `garlic` #####
 1429. dubious
 1430. `melody` ####
 1431. `hoist` ####
 1432. scheme
 1433. badminton #
-1434. stipulate ###
+1434. `stipulate` ####
 1435. arrogant #
 1436. impulse
 1437. approve
@@ -1479,10 +1479,10 @@ description: 单词积累
 1466. allegation
 1467. paralyze
 1468. bridge
-1469. storey
+1469. storey #
 1470. barren #
 1471. shoulder
-1472. vein
+1472. vein #
 1473. brass ##
 1474. feudal ##
 1475. passport ##
@@ -1520,10 +1520,10 @@ description: 单词积累
 1507. prosecute #
 1508. grease #
 1509. overhaul #
-1510. naughty ###
+1510. `naughty` ####
 1511. tin #
 1512. knob ##
-1513. thunder #
+1513. thunder ##
 1514. deplete #
 1515. zigzag
 1516. pale ##
@@ -1531,7 +1531,7 @@ description: 单词积累
 1518. eagle #
 1519. equity #
 1520. hound ##
-1521. blaze #
+1521. blaze ##
 1522. orthodox #
 1523. worst
 1524. sturdy
@@ -1539,29 +1539,37 @@ description: 单词积累
 1526. actress
 1527. castle
 1528. tub
-1529. submerge
-1530. burglar ##
+1529. submerge #
+1530. `burglar` ####
 1531. landlady
 1532. coast
 1533. tangle
 1534. steel
-1535. dual
+1535. dual #
 1536. applause
-1537. pardon
-1538. tedious #
-1539. auditorium
-1540. stagger
-1541. oven
-1542. napkin
+1537. pardon ##
+1538. tedious ##
+1539. auditorium #
+1540. stagger #
+1541. oven #
+1542. napkin #
 1543. brow
 1544. proficiency
 1545. remnant
-1546. rebellion
-1547. motor #
-1548. clay #
-1549. sane
+1546. rebellion #
+1547. motor ##
+1548. clay ##
+1549. sane #
 1550. wound
 1551. farewell
 1552. shock
 1553. subconscious
 1554. soothe
+1555. supper
+1556. glass
+1557. layoff
+1558. peninsula
+1559. disposal
+1560. senate
+1561. elevator
+1562. choke
