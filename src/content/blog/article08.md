@@ -31,12 +31,19 @@ description: 线性代数
 
 解法 (下标大 - 下标小)
 
+4. 余子式和代数余子式
+
+   - 题型1. 按第i行展开: $\Sigma_{i=1}^n a_{ij} * A_{ij} 将行列式a_{ij}换成其常数 k_{ij}$ 线代9讲14页例2.1
+
+5. $A_{11} + A_{22} + A_{33} = tr(A^*) = \lambda_2\lambda_3 + \lambda_1\lambda_3 + \lambda_1\lambda_2$
+
 ## 矩阵
 
 ### 求 A^n
 
-1. 求$A^n = PBP^{-1} = PB^{n} P^{-1}$
+1. A ~ B 则 $A = PBP^{-1} = PB^{n} P^{-1}$
 2. A 为方阵 且 r(A) = 1, $A^n = tr(A)^{n-1} A$
+3. 拆分成 A = M + B，且MN = NM，$A^n = \Sigma_{k=0}^{n}C_n^kN^{n-k}M^{k}$, 莱布尼茨
 
 ### 基本运算
 
@@ -50,8 +57,10 @@ description: 线性代数
 2. A != |A|
 3. 主对角$\begin{bmatrix} A & O \\ O & B \end{bmatrix}^{n} = \begin{bmatrix} A^n & O \\ O & B^n \end{bmatrix}$
 4. 副对角\*(对调)$\begin{bmatrix} O & A \\ B & O \end{bmatrix}^{n} = \begin{bmatrix} O & B^n  \\ A^n & O \end{bmatrix}$
-5. $(A+B)^T = A^T + B^T$ (只有转置可以)
-6. $AA^T != A^TA$
+5. $主对角线非0形 A = \begin{bmatrix} B & O \\ D & C \end{bmatrix}, A^{-1} = \begin{bmatrix} B^{-1} & O  \\ -C^{-1}DB^{-1} & C^{-1} \end{bmatrix}$，主对角取逆，副对调并左乘负同行，右乘同列。
+6. $主对角线非0形 A = \begin{bmatrix} O & B \\ C&D   \end{bmatrix}, A^{-1} = \begin{bmatrix} -C^{-1}DB^{-1} & C^{-1}  \\ B^{-1} & O \end{bmatrix}$，副对角取逆并对调，主对角线对调并左乘负同行，右乘同列。
+7. $(A+B)^T = A^T + B^T$ (只有转置可以)
+8. $A^2-B^2 != (A + B)(A - B)$
 
 ### $A^{-1}$矩阵的逆
 
@@ -59,7 +68,12 @@ description: 线性代数
 2. | $A^{-1}$ | = | A | $^{-1}$ = $\tfrac{1}{|A|}$
 3. 初等变换不改变矩阵的秩 $r(A) = r(PA) = r(AQ), $P, Q 分别是 m、n阶可莉矩阵
 4. 利用初等行变化求逆
-5. AB = E, $A^{-1}$ = B
+
+求 $A^{-1}$
+
+1. 凑 AB = E, $A^{-1}$ = B
+2. $A = BC, A^{-1} =  B^{-1} C^{-1}$
+3. 长除法
 
 可逆的充要条件
 
