@@ -1636,3 +1636,6 @@ description: 单词积累
 1624. missile
 1625. earthquake
 1626. silk
+1627. credit
+1628. shared
+1629. confrontation
