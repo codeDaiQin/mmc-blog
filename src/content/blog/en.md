@@ -1717,3 +1717,7 @@ description: 单词积累
 1705. lapse
 1706. gloomy
 1707. pirate
+1708. manual
+
+
+$a_1 为列向量且不等于0， Aa_1 = a_1 , 能推出A满秩吗$
