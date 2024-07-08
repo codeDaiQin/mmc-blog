@@ -204,3 +204,12 @@ description: 计算机组成原理
 ### 扩展操作码指令格式
 
 ### 指令的寻址
+
+
+## 5 中央处理器
+识图
+
+控制信号序列
+1. (PC) -> MAR; PCout, MARin
+2. M(MAR) -> MDR, (PC) + 1 -> PC; MDRin, MemRead
+3. (MDR) -> IR; MDRout, IRin
