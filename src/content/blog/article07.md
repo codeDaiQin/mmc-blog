@@ -18,49 +18,68 @@ description: 高数知识点梳理
 
 ## 泰勒公式
 
-- 数列极限
-  - 递推式 函数求导
-  - 裂项相消：分母为相邻或相隔项的乘积
+## 数列极限
 
-### 通项已知（和式）不易连续化
+### 无穷大与无穷小亮
+- $\displaystyle\lim_{n \rightarrow \infty}x_n = a，存在x > 0，对于任意正数N，当n > N时，恒有 |x_n - a| < xx，当a = 0时，称x_n为 n \rightarrow \infty 的无穷小亮$
+- $\displaystyle\lim_{n \rightarrow \infty}x_n = \infty，存在x > 0，对于任意正数N，当n > N时，恒有 |x_n| > x，称x_n为 n \rightarrow \infty 的无穷大亮$
+
+### 数列收敛与子数列收敛的关系
+- 若数列收敛，则其任意子数列也收敛
+- $\displaystyle\lim_{n \rightarrow \infty}a_n <=> \displaystyle\lim_{k \rightarrow \infty}a_{2k-1} = \displaystyle\lim_{k \rightarrow \infty}a_{2k+1} = a$ 偶数项, 奇数项极限均存在且相等为a <=> 全部项极限为a （这里必须包含所有项 奇数+偶数=全部）
+
+### 常见的n项和
+1. $\Sigma_{k=1}^nk= 1+2+3+...+n = \tfrac{n(n + 1)}{2}$
+2. $\Sigma_{k=1}^nk^2= 1^2+2^2+...+n^2 = \tfrac{n(n + 1)(2n + 1)}{6}$
+3. $\Sigma_{k=1}^n\tfrac{1}{k(k+1)}= \tfrac{n}{n + 1}$ 裂项相消
+
+### 保号性
+脱帽不等，戴帽非不等
+limf > 0 => f > 0
+f >=（>） 0 => limf >= 0
+
+### 海涅定理（归结原理）
+$函数f(x) 在x_0 去心邻域内有定义，则\displaystyle\lim_{x \rightarrow x_0}f(x) = A 存在的冲要条件是：任意极限为x_0的数列{x_n, x_n \not ={x_0}}， 极限\displaystyle\lim_{x \rightarrow x_0}f(x) = A存在$
 
 ### 夹逼准则
 
-例: 设$X_n = (1 + \tfrac{1}{n^2})(1 + \tfrac{2}{n^2})...(1 + \tfrac{n}{n^2})$, 则 $\displaystyle\lim_{n->\infty}X_n = e^{\tfrac{1}{2}}$
-
-解: 等式两边取对数 $\ln{X_n} = Sigma_{i=1}^{n}\ln(1+ \tfrac{i}{n^2})$
-根据不等式 $\tfrac{x}{1+x} < \ln(1+x) < x (x>0)$ 有
-$\displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{\tfrac{i}{n^2}}{1+\tfrac{i}{n^2}} < \displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\ln(1 + \tfrac{i}{n^2}) < \displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2}$
-
-上式右端 $\displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2} = \displaystyle\lim_{n ->\infty}\tfrac{1}{n^2}  \tfrac{n(n+1)}{2} = \tfrac{1}{2}$
-
-上式左端 $\displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{\tfrac{i}{n^2}}{1+\tfrac{i}{n^2}} = \displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + i}$
-由夹逼准则, $\displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + n} < \displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + i} < \displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + 1}$
-解得 $\displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + i} = \tfrac{1}{2}$
-
-故$\displaystyle\lim_{n ->\infty}\Sigma_{i=1}^{n}\ln(1 + \tfrac{i}{n^2}) = \tfrac{1}{2}$
-即 $\ln{X_n} = \tfrac{1}{2}, X_n = e^{\tfrac{1}{2}}$
-
 > 总结: 若干项相乘可等式两边取对数转为相加
 
-### 定积分的应用
+例: 设$x_n = (1 + \tfrac{1}{n^2})(1 + \tfrac{2}{n^2})...(1 + \tfrac{n}{n^2})$, 则 $\displaystyle\lim_{n\rightarrow\infty}x_n = e^{\tfrac{1}{2}}$
+
+解: 等式两边取对数 $\ln{x_n} = \Sigma_{i=1}^{n}\ln(1+ \tfrac{i}{n^2})$
+根据不等式 $\tfrac{x}{1+x} < \ln(1+x) < x (x>0)$ 有
+$\displaystyle\lim_{n \rightarrow\infty}\Sigma_{i=1}^{n}\tfrac{\tfrac{i}{n^2}}{1+\tfrac{i}{n^2}} < \displaystyle\lim_{n \rightarrow\infty}\Sigma_{i=1}^{n}\ln(1 + \tfrac{i}{n^2}) < \displaystyle\lim_{n \rightarrow\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2}$
+
+上式右端 $\displaystyle\lim_{n \rightarrow\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2} = \displaystyle\lim_{n \rightarrow\infty}\tfrac{1}{n^2}  \tfrac{n(n+1)}{2} = \tfrac{1}{2}$
+
+上式左端 $\displaystyle\lim_{n \rightarrow\infty}\Sigma_{i=1}^{n}\tfrac{\tfrac{i}{n^2}}{1+\tfrac{i}{n^2}} = \displaystyle\lim_{n \rightarrow\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + i}$
+由夹逼准则, $\displaystyle\lim_{n \rightarrow\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + n} < \displaystyle\lim_{n \rightarrow\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + i} < \displaystyle\lim_{n \rightarrow\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + 1}$
+解得 $\displaystyle\lim_{n \rightarrow\infty}\Sigma_{i=1}^{n}\tfrac{i}{n^2 + i} = \tfrac{1}{2}$
+
+故$\displaystyle\lim_{n \rightarrow\infty}\Sigma_{i=1}^{n}\ln(1 + \tfrac{i}{n^2}) = \tfrac{1}{2}$
+即 $\ln{x_n} = \tfrac{1}{2}, x_n = e^{\tfrac{1}{2}}$
 
 ### 递推公式 `单调有界准则`
 
+- 单调增 + 有上界 = 收敛
+- 单调减 + 有下界 = 收敛
+  
 1. 先单调有界准则证明极限存在
 
 单调性
 
-1. $X_n - X_{n - 1}$ 后项 - 前项 和 0 比较
-2. $\tfrac{X_n}{X_{n-1}}$ 后项 比 前项 和 1比较
-3. 递推函数求导 > 0 -> `单调`， 再看 $X_1$ 和 $X_2$的关系 后项>前项 单调增，后向<前项 单调减。
+1. $x_n - x_{n - 1}$ 后项 - 前项 和 0 比较
+2. $\tfrac{x_n}{x_{n-1}}$ 后项 比 前项 和 1比较
+3. $通项f(n)已知, f'(n) >= 0$ 数列单调增
+4. 递推函数求导 > 0 \rightarrow `单调`， 再看 $x_1$ 和 $x_2$的关系 后项>前项 单调增，后向<前项 单调减。
 
-例: 设$X_1 = \sqrt{a}, X_{n+1} = \sqrt{a + X_n} $, 证明 $\displaystyle\lim_{n->\infty} X_n$ 存在，并求值
-解: 令 $f(x) = \sqrt{a + x}, f'(x) = \tfrac{1}{2\sqrt{a + x}} > 0$，且$X_2 > X_1， 即 X_n$ 单调增
+例: 设$x_1 = \sqrt{a}, x_{n+1} = \sqrt{a + x_n} $, 证明 $\displaystyle\lim_{n\rightarrow\infty} x_n$ 存在，并求值
+解: 令 $f(x) = \sqrt{a + x}, f'(x) = \tfrac{1}{2\sqrt{a + x}} > 0$，且$x_2 > x_1， 即 x_n$ 单调增
 
-设 $\displaystyle\lim_{n->\infty} X_n = A$ 则 $X_{n+1} = \sqrt{a + X_n} = A = \sqrt{a + A}$
-解得 $A_1 = \tfrac{1 + \sqrt{1 + 4a}}{2}, A_2 = \tfrac{1 - \sqrt{1 + 4a}}{2} (要求>0 舍) $ 即 $\tfrac{1 + \sqrt{1 + 4a}}{2} 为上界$ ？？这里怎么证明出来的上界
-由单调有界准则可知，$\displaystyle\lim_{n->\infty} X_n = \tfrac{1 + \sqrt{1 + 4a}}{2}$
+设 $\displaystyle\lim_{n\rightarrow\infty} x_n = A$ 则 $x_{n+1} = \sqrt{a + x_n} = A = \sqrt{a + A}$
+解得 $A_1 = \tfrac{1 + \sqrt{1 + 4a}}{2}, A_2 = \tfrac{1 - \sqrt{1 + 4a}}{2} (要求 > 0 舍) $ 即 $\tfrac{1 + \sqrt{1 + 4a}}{2} 为上界$ ？？这里怎么证明出来的上界
+由单调有界准则可知，$\displaystyle\lim_{n\rightarrow\infty} x_n = \tfrac{1 + \sqrt{1 + 4a}}{2}$
 
 ### 已知通项
 
@@ -72,8 +91,8 @@ todo https://www.bilibili.com/video/BV1K14y1d79p?p=3&vd_source=76b751c6c2314509a
 
 - 常见反例掌握 $sin{x^2}、|x|$
 - 连续、有界、连续
-  - $f(x)在[a, b]连续 -> 在[a, b]有界$
-  - $f(x)在(a, b)连续 且 \displaystyle\lim_{x->b-} \displaystyle\lim_{x->a+}存在 -> 在(a, b)有界$
+  - $f(x)在[a, b]连续 \rightarrow 在[a, b]有界$
+  - $f(x)在(a, b)连续 且 \displaystyle\lim_{x\rightarrow b-} \displaystyle\lim_{x\rightarrow a+}存在 \rightarrow 在(a, b)有界$
   - $f'(x)在有限开区间有界 —> f(x)在区间有界$
 
 极值 拐点
@@ -112,14 +131,14 @@ $f(x) = [... + \tfrac{x^{200}}{50!} + ...]$
 
 - 存在充分条件
 
-  1. 函数在闭区间连续 -> 定积分必存在
-  2. 函数在闭区间有界 且间断点有限 -> 定积分必存在
-  3. 函数在闭区间有有限个第一类间断点 -> 定积分必存在
+  1. 函数在闭区间连续 \rightarrow 定积分必存在
+  2. 函数在闭区间有界 且间断点有限 \rightarrow 定积分必存在
+  3. 函数在闭区间有有限个第一类间断点 \rightarrow 定积分必存在
 
 - 变限积分
 
-  1. $f(x)可积 -> F(x)连续$
-  2. $f(x)连续 -> F(x)可导$
+  1. $f(x)可积 \rightarrow F(x)连续$
+  2. $f(x)连续 \rightarrow F(x)可导$
 
 - 周期函数的积分性质， 以T为周期的连续函数
   - $\int_0^{nT} f(x) = n\int_0^T f(x)$

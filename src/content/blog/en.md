@@ -118,7 +118,7 @@ description: 单词积累
 106. trumpet ###
 107. punch ##
 108. amplify #
-109. plagiarism ###
+109. `plagiarism` ####
 110. `cement` ####
 111. `starve` #####
 112. `racial` ####
@@ -138,7 +138,7 @@ description: 单词积累
 126. `snack` #####
 127. expectation
 128. exception
-129. `inference` ######
+129. `inference` #######
 130. insight #
 131. imitation ##
 132. foster ##
@@ -420,7 +420,7 @@ description: 单词积累
 408. harsh
 409. `stiff` #####
 410. backward #
-411. `pasture` #####
+411. `pasture` ######
 412. fraction ###
 413. trench #
 414. battery
@@ -565,7 +565,7 @@ description: 单词积累
 553. rat
 554. `awful` ####
 555. propagate #
-556. endorse ##
+556. endorse ###
 557. knot ##
 558. `hierarchy` ####
 559. destiny ##
@@ -862,7 +862,7 @@ description: 单词积累
 850. hygiene #
 851. strife ##
 852. kettle #
-853. exact
+853. exact #
 854. sob ##
 855. cap
 856. beware #
@@ -1071,7 +1071,7 @@ description: 单词积累
 1059. stretch #
 1060. grind
 1061. originate
-1062. sausage #
+1062. sausage ##
 1063. pork
 1064. beg ###
 1065. chase
@@ -1103,7 +1103,7 @@ description: 单词积累
 1091. pride ###
 1092. shatter #
 1093. valve ##
-1094. `shepherd` ######
+1094. `shepherd` #######
 1095. loaf ##
 1096. namely #
 1097. communism
@@ -1131,7 +1131,7 @@ description: 单词积累
 1119. pneumonia ##
 1120. `nominate` ####
 1121. assassinate ##
-1122. waist #
+1122. waist ##
 1123. bracket #
 1124. truck
 1125. `album` ##########
@@ -1239,9 +1239,9 @@ description: 单词积累
 1227. inland
 1228. jar
 1229. transcend
-1230. stitch
+1230. stitch #
 1231. salient ##
-1232. plural ##
+1232. plural ###
 1233. temptation #
 1234. dynasty ##
 1235. vibrate ###
@@ -1269,7 +1269,7 @@ description: 单词积累
 1257. dread ##
 1258. `cathedral` #####
 1259. pants
-1260. mob ##
+1260. mob ###
 1261. rubber #
 1262. infrared ###
 1263. plain #
@@ -1286,7 +1286,7 @@ description: 单词积累
 1274. `facet` ####
 1275. kidnap ##
 1276. coward ##
-1277. laser ##
+1277. laser ###
 1278. sentence #
 1279. cave ##
 1280. subtract ##
@@ -1349,7 +1349,7 @@ description: 单词积累
 1337. `garlic` ######
 1338. dubious
 1339. `melody` ####
-1340. `hoist` #####
+1340. `hoist` ######
 1341. scheme
 1342. badminton #
 1343. `stipulate` ####
@@ -1366,7 +1366,7 @@ description: 单词积累
 1354. surname
 1355. `stagnant` #####
 1356. dignity ###
-1357. `envelope` #####
+1357. `envelope` ######
 1358. glitter ##
 1359. skull ###
 1360. buffet
@@ -1428,14 +1428,14 @@ description: 单词积累
 1416. prosecute #
 1417. grease ##
 1418. overhaul #
-1419. `naughty` ######
+1419. `naughty` #######
 1420. tin #
 1421. knob ##
 1422. `thunder` ####
 1423. deplete ##
 1424. zigzag
 1425. `pale` ####
-1426. plenty ##
+1426. plenty ###
 1427. eagle #
 1428. equity #
 1429. hound ##
@@ -1488,7 +1488,7 @@ description: 单词积累
 1476. luggage ###
 1477. decree
 1478. siege ###
-1479. culminate #
+1479. culminate ##
 1480. discreet #
 1481. cottage
 1482. eternal
@@ -1497,7 +1497,7 @@ description: 单词积累
 1485. miniature
 1486. gracious #
 1487. vinegar #
-1488. lyric #
+1488. lyric ##
 1489. thirst
 1490. stimulus
 1491. occur
@@ -1552,7 +1552,7 @@ description: 单词积累
 1540. ascribe
 1541. cumulative #
 1542. `curtain` #####
-1543. steal ###
+1543. `steal` ####
 1544. specimen
 1545. cushion ###
 1546. boil #
@@ -1579,7 +1579,7 @@ description: 单词积累
 1567. conservation
 1568. thereafter
 1569. downtown ##
-1570. `horn` ######
+1570. `horn` #######
 1571. chain
 1572. condense ###
 1573. dismay #
@@ -1593,9 +1593,9 @@ description: 单词积累
 1581. companion ##
 1582. flour ###
 1583. brisk ##
-1584. recipe ##
+1584. recipe ###
 1585. henceforth
-1586. eloquent ##
+1586. eloquent ###
 1587. blind
 1588. convenient #
 1589. rim ###
@@ -1625,7 +1625,7 @@ description: 单词积累
 1613. whisper ##
 1614. cafeteria #
 1615. sauce #
-1616. fence
+1616. fence #
 1617. meal
 1618. clever
 1619. pretend #
@@ -1633,7 +1633,7 @@ description: 单词积累
 1621. `parasite` ####
 1622. shut
 1623. hatred ##
-1624. antenna ##
+1624. antenna ###
 1625. cylinder #
 1626. fable ###
 1627. `faint` #####
@@ -1664,7 +1664,7 @@ description: 单词积累
 1652. waitress
 1653. mend #
 1654. breeze #
-1655. kindergarten
+1655. kindergarten #
 1656. fright #
 1657. parameter ###
 1658. watt
@@ -1672,7 +1672,7 @@ description: 单词积累
 1660. voltage #
 1661. furious
 1662. pope
-1663. march
+1663. march #
 1664. waste
 1665. marital
 1666. opaque ##
@@ -1689,13 +1689,13 @@ description: 单词积累
 1677. despatch #
 1678. `exquisite` ####
 1679. tumble
-1680. shave
+1680. shave #
 1681. sunset
 1682. sour
 1683. exterior
 1684. exhibition
 1685. coarse ##
-1686. scissors
+1686. scissors #
 1687. ruthless #
 1688. lift
 1689. indicative
@@ -1708,7 +1708,7 @@ description: 单词积累
 1696. germ ###
 1697. celebrate
 1698. stove
-1699. astonish #
+1699. astonish ##
 1700. crane
 1701. malignant #
 1702. collar ##
@@ -1765,3 +1765,5 @@ description: 单词积累
 1753. altitude
 1754. suppose
 1755. shall
+1756. bean
+1757. ministry
