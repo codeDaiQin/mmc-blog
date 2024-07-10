@@ -199,7 +199,7 @@ description: 单词积累
 187. counsel #
 188. lucrative
 189. `stalk` #####
-190. `slum` ######
+190. `slum` #######
 191. manipulate ##
 192. quest
 193. stall
@@ -928,7 +928,7 @@ description: 单词积累
 916. debt #
 917. diet ###
 918. appal ##
-919. `escalate` ####
+919. `escalate` #####
 920. `contingent` #####
 921. gratitude #
 922. `wagon` ######
@@ -1259,7 +1259,7 @@ description: 单词积累
 1247. indignant #
 1248. adverb
 1249. rectangle
-1250. groan #
+1250. groan ##
 1251. `famine` ######
 1252. chemistry #
 1253. proposal #
@@ -1291,9 +1291,9 @@ description: 单词积累
 1279. cave ##
 1280. subtract ##
 1281. optimum
-1282. gut ###
+1282. `gut` ####
 1283. `wrinkle` ######
-1284. beverage ###
+1284. `beverage` ####
 1285. blush ###
 1286. `nostalgic` #####
 1287. configuration #
@@ -1767,3 +1767,4 @@ description: 单词积累
 1755. shall
 1756. bean
 1757. ministry
+1758. porter
