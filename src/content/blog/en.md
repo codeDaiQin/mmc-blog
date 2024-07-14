@@ -94,7 +94,7 @@ description: 单词积累
 82. tide #
 83. acute #
 84. liver ###
-85. applaud #
+85. applaud ##
 86. `epoch` ####
 87. desperate #
 88. cunning #
@@ -271,7 +271,7 @@ description: 单词积累
 259. `blanket` #######
 260. orchestra ###
 261. `canal` ##########
-262. `troop` #########
+262. `troop` ##########
 263. poisonous #
 264. `wreck` #########
 265. `paradise` #### heaven #
@@ -379,7 +379,7 @@ description: 单词积累
 367. jurisdiction
 368. `weed` ####
 369. `compulsory` #######
-370. parade ###
+370. `parade` ####
 371. evoke #
 372. comprise #
 373. speciality
@@ -387,7 +387,7 @@ description: 单词积累
 375. `stadium` #######
 376. `vicinity` #######
 377. arrest #
-378. `merchant` ####
+378. `merchant` #####
 379. discourse ##
 380. `orphan` ########
 381. jog ###
@@ -407,7 +407,7 @@ description: 单词积累
 395. seminar
 396. moderate
 397. `penalty` #######
-398. `cabin` ##### cabinet ##
+398. `cabin` ##### cabinet ###
 399. morality ###
 400. `mortgage` ##########
 401. bulletin ##
@@ -416,7 +416,7 @@ description: 单词积累
 404. debut ###
 405. `weary` #####
 406. compel
-407. bond ##
+407. bond ###
 408. harsh
 409. `stiff` #####
 410. backward #
@@ -535,7 +535,7 @@ description: 单词积累
 523. suck ##
 524. `dialect` ####
 525. hesitate ###
-526. `coach` #########
+526. `coach` ##########
 527. decisive
 528. `petition` ####
 529. onion ##
@@ -634,7 +634,7 @@ description: 单词积累
 622. `blunt` #####
 623. bruise #
 624. `slave` #####
-625. `deposit` #####
+625. `deposit` ######
 626. `evaporate` ######
 627. reciprocal
 628. intention
@@ -654,7 +654,7 @@ description: 单词积累
 642. patriotic #
 643. mingle
 644. staple ###
-645. exile ##
+645. exile ###
 646. locker #
 647. pillar
 648. reassure #
@@ -693,7 +693,7 @@ description: 单词积累
 681. linear
 682. glide
 683. slipper ##
-684. `turmoil` ##########
+684. `turmoil` ###########
 685. wholesome
 686. deceive #
 687. escort
@@ -705,9 +705,9 @@ description: 单词积累
 693. `shaft` ########
 694. flat ###
 695. fringe ###
-696. bend ###
+696. `bend` ####
 697. blade #
-698. `surge` #####
+698. `surge` ######
 699. dawn ##
 700. mushroom
 701. `devil` ####
@@ -729,7 +729,7 @@ description: 单词积累
 717. charisma ##
 718. climax
 719. strand ###
-720. harassment
+720. harassment #
 721. diabetes ###
 722. monitor ##
 723. razor
@@ -766,7 +766,7 @@ description: 单词积累
 754. glacier #
 755. fog ##
 756. plumber #
-757. sleeve ###
+757. `sleeve` ####
 758. idiot ###
 759. `funeral` ###########
 760. coronavirus
@@ -895,10 +895,10 @@ description: 单词积累
 883. theoretical
 884. `lofty` ####
 885. bake ###
-886. rifle ##
+886. rifle ###
 887. `tape` ####
 888. mutter #
-889. slaughter ###
+889. `slaughter` ####
 890. `excursion` ####
 891. `mineral` ####
 892. quarantine ##
@@ -928,11 +928,11 @@ description: 单词积累
 916. debt #
 917. diet ###
 918. appal ##
-919. `escalate` #####
+919. `escalate` ######
 920. `contingent` #####
 921. gratitude #
 922. `wagon` ######
-923. deed ###
+923. `deed` ####
 924. `maneuver` ####
 925. doubt
 926. bedrock #
@@ -971,7 +971,7 @@ description: 单词积累
 959. ritual #
 960. pity #
 961. dentist #
-962. peasant #
+962. peasant ##
 963. needle ##
 964. knee
 965. predator ###
@@ -1058,7 +1058,7 @@ description: 单词积累
 1046. bone #
 1047. intend
 1048. approval
-1049. miracle ###
+1049. `miracle` ####
 1050. forum #
 1051. custody #
 1052. garment ##
@@ -1073,10 +1073,10 @@ description: 单词积累
 1061. originate
 1062. sausage ##
 1063. pork
-1064. beg ###
-1065. chase
+1064. `beg` ####
+1065. chase #
 1066. rib ###
-1067. cage ##
+1067. `cage` ####
 1068. discretion #
 1069. albeit ###
 1070. knock #
@@ -1089,7 +1089,7 @@ description: 单词积累
 1077. `decimal` #####
 1078. ham ##
 1079. `saucer` ####
-1080. flavor ##
+1080. flavor ###
 1081. scold ##
 1082. stationery #
 1083. `rock` ####
@@ -1124,10 +1124,10 @@ description: 单词积累
 1112. overtake #
 1113. lad ##
 1114. `spade` ######
-1115. clutch #
+1115. clutch ##
 1116. vegetation
 1117. `rehearse` ####
-1118. survey ##
+1118. survey ###
 1119. pneumonia ##
 1120. `nominate` ####
 1121. assassinate ##
@@ -1157,7 +1157,7 @@ description: 单词积累
 1145. `tenant` ########
 1146. ankle #
 1147. `resilient` ####
-1148. `majesty` ####
+1148. `majesty` #####
 1149. enormous
 1150. force
 1151. revive
@@ -1174,7 +1174,7 @@ description: 单词积累
 1162. aspire
 1163. lantern ###
 1164. ponder #
-1165. wax #
+1165. wax ##
 1166. ore #
 1167. quarrel ###
 1168. voyage #
@@ -1203,23 +1203,23 @@ description: 单词积累
 1191. choir ##
 1192. `mist` #####
 1193. cricket
-1194. peep ###
+1194. `peep` ####
 1195. poster
 1196. belt
 1197. jolly #
 1198. certify
 1199. reproach
 1200. fame
-1201. fond
-1202. dazzle ###
-1203. `gauge` ######
+1201. fond #
+1202. `dazzle` ####
+1203. `gauge` #######
 1204. revenge ##
 1205. salute ##
 1206. fellowship
 1207. `diagram` ####
-1208. tray ###
+1208. `tray` ####
 1209. venue ###
-1210. `chalk` #####
+1210. `chalk` ######
 1211. perfume #
 1212. `jail` ####
 1213. convene
@@ -1232,7 +1232,7 @@ description: 单词积累
 1220. straw
 1221. thirsty ##
 1222. obedient #
-1223. `murder` ####
+1223. `murder` #####
 1224. wooden ##
 1225. gulf ##
 1226. corner ##
@@ -1260,7 +1260,7 @@ description: 单词积累
 1248. adverb
 1249. rectangle
 1250. groan ##
-1251. `famine` ######
+1251. `famine` #######
 1252. chemistry #
 1253. proposal #
 1254. broom ###
@@ -1282,7 +1282,7 @@ description: 单词积累
 1270. nephew
 1271. `lavatory` #####
 1272. cupboard ###
-1273. proximate #
+1273. proximate ##
 1274. `facet` ####
 1275. kidnap ##
 1276. coward ##
@@ -1295,24 +1295,24 @@ description: 单词积累
 1283. `wrinkle` ######
 1284. `beverage` ####
 1285. blush ###
-1286. `nostalgic` #####
+1286. `nostalgic` ######
 1287. configuration #
 1288. dish ##
-1289. `cotton` ####
+1289. `cotton` #####
 1290. crust ###
-1291. `stomach` ######
+1291. `stomach` #######
 1292. `bounce` ####
 1293. symmetry ###
 1294. picnic ##
-1295. `thick` ####
+1295. `thick` #####
 1296. sophomore ##
 1297. ignite ###
 1298. adventure
-1299. ridge ##
-1300. `relish` ####
+1299. ridge ###
+1300. `relish` #####
 1301. `powder` ####
 1302. burst #
-1303. frog
+1303. frog #
 1304. candle
 1305. twin ##
 1306. cannon ##
@@ -1321,38 +1321,38 @@ description: 单词积累
 1309. mug ##
 1310. pocket #
 1311. kindness #
-1312. `hay` ####
+1312. `hay` #####
 1313. affluent ###
 1314. batch ###
 1315. noon #
-1316. ebb #
-1317. clergy ###
+1316. ebb ##
+1317. `clergy` ####
 1318. cousin ###
 1319. `contaminate` ####
 1320. quilt ###
 1321. briefcase #
 1322. `hurricane` #######
 1323. `turbine` #####
-1324. shampoo ###
+1324. `shampoo` ####
 1325. situate
 1326. impart ###
 1327. freelance
 1328. agreeable #
 1329. haste ##
-1330. `spoon` ########
-1331. carriage ##
+1330. `spoon` #########
+1331. carriage ###
 1332. allege
 1333. `cordial` #######
 1334. `basin` ######
 1335. circumference #
 1336. slam ###
-1337. `garlic` ######
+1337. `garlic` #######
 1338. dubious
 1339. `melody` ####
 1340. `hoist` ######
 1341. scheme
 1342. badminton #
-1343. `stipulate` ####
+1343. `stipulate` #####
 1344. arrogant ##
 1345. impulse
 1346. approve
@@ -1364,7 +1364,7 @@ description: 单词积累
 1352. thrift
 1353. vapour ##
 1354. surname
-1355. `stagnant` #####
+1355. `stagnant` ######
 1356. dignity ###
 1357. `envelope` ######
 1358. glitter ##
@@ -1373,7 +1373,7 @@ description: 单词积累
 1361. reckless #
 1362. `torrent` ######
 1363. `garage` ######
-1364. locomotive #
+1364. locomotive ##
 1365. longitude #
 1366. odor ###
 1367. shrug ###
@@ -1385,10 +1385,10 @@ description: 单词积累
 1373. tidy ###
 1374. opinion
 1375. allegation
-1376. paralyze #
+1376. paralyze ##
 1377. bridge
 1378. storey ##
-1379. barren #
+1379. barren ##
 1380. shoulder
 1381. vein #
 1382. brass ##
@@ -1401,7 +1401,7 @@ description: 单词积累
 1389. `bacon` ####
 1390. doorway
 1391. butcher ###
-1392. sprout
+1392. sprout #
 1393. inverse
 1394. yawn ##
 1395. wheat #
@@ -1411,7 +1411,7 @@ description: 单词积累
 1399. detain
 1400. concede
 1401. heat
-1402. frost #
+1402. frost ##
 1403. entrance ##
 1404. lasting
 1405. miserable
@@ -1423,7 +1423,7 @@ description: 单词积累
 1411. greedy
 1412. benevolent
 1413. pest #
-1414. retention #
+1414. retention ##
 1415. dine
 1416. prosecute #
 1417. grease ##
@@ -1442,9 +1442,9 @@ description: 单词积累
 1430. blaze ##
 1431. orthodox ###
 1432. worst
-1433. sturdy #
+1433. sturdy ##
 1434. contagious
-1435. actress
+1435. actress #
 1436. castle #
 1437. tub
 1438. submerge #
@@ -1455,7 +1455,7 @@ description: 单词积累
 1443. steel #
 1444. dual ##
 1445. applause #
-1446. pardon ###
+1446. `pardon` ####
 1447. `tedious` ####
 1448. auditorium ##
 1449. stagger ###
@@ -1467,8 +1467,8 @@ description: 单词积累
 1455. rebellion ##
 1456. motor ###s
 1457. clay ##
-1458. sane ###
-1459. wound #
+1458. `sane` ####
+1459. wound ##
 1460. farewell
 1461. shock
 1462. subconscious
@@ -1476,7 +1476,7 @@ description: 单词积累
 1464. supper
 1465. glass
 1466. layoff
-1467. peninsula ##
+1467. peninsula ###
 1468. disposal
 1469. senate #
 1470. elevator
@@ -1487,7 +1487,7 @@ description: 单词积累
 1475. scarf #
 1476. luggage ###
 1477. decree
-1478. siege ###
+1478. `siege` ####
 1479. culminate ##
 1480. discreet #
 1481. cottage
@@ -1496,7 +1496,7 @@ description: 单词积累
 1484. pigeon ###
 1485. miniature
 1486. gracious #
-1487. vinegar #
+1487. vinegar ##
 1488. lyric ##
 1489. thirst
 1490. stimulus
@@ -1523,19 +1523,19 @@ description: 单词积累
 1511. neat
 1512. arena #
 1513. sand
-1514. cosy #
+1514. cosy ##
 1515. dissipate #
 1516. velvet
-1517. seam #
+1517. seam ##
 1518. axe
 1519. landlord
-1520. futile ###
+1520. `futile` ####
 1521. concert
 1522. pupil ###
 1523. whirl
 1524. steak #
 1525. conscience
-1526. comrade #
+1526. comrade ##
 1527. portfolio
 1528. deviate
 1529. leather ###
@@ -1551,7 +1551,7 @@ description: 单词积累
 1539. toilet #
 1540. ascribe
 1541. cumulative #
-1542. `curtain` #####
+1542. `curtain` ######
 1543. `steal` ####
 1544. specimen
 1545. cushion ###
@@ -1571,7 +1571,7 @@ description: 单词积累
 1559. chef #
 1560. dig ###
 1561. wing #
-1562. biscuit ###
+1562. `biscuit` ####
 1563. vigorous ##
 1564. penny ##
 1565. reservation
@@ -1582,11 +1582,11 @@ description: 单词积累
 1570. `horn` #######
 1571. chain
 1572. condense ###
-1573. dismay #
-1574. eradicate #
+1573. dismay ##
+1574. eradicate ##
 1575. parcel
 1576. grass ##
-1577. thermal ###
+1577. `thermal` ####
 1578. rack ##
 1579. franchise ##
 1580. pact ##
@@ -1619,7 +1619,7 @@ description: 单词积累
 1607. intrigue ##
 1608. gorgeous
 1609. graze #
-1610. stubborn ###
+1610. `stubborn` ####
 1611. treasure ##
 1612. tame ##
 1613. whisper ##
@@ -1634,8 +1634,8 @@ description: 单词积累
 1622. shut
 1623. hatred ##
 1624. antenna ###
-1625. cylinder #
-1626. fable ###
+1625. cylinder ##
+1626. `fable` ####
 1627. `faint` #####
 1628. ambassador ##
 1629. fracture
@@ -1704,8 +1704,8 @@ description: 单词积累
 1692. sniff
 1693. curse
 1694. corrode
-1695. bench #
-1696. germ ###
+1695. bench ##
+1696. `germ` ####
 1697. celebrate
 1698. stove
 1699. astonish ##
@@ -1734,9 +1734,9 @@ description: 单词积累
 1722. stewardess
 1723. buzz
 1724. fling
-1725. stale
+1725. stale #
 1726. infectious
-1727. outskirts
+1727. outskirts #
 1728. cluster
 1729. invention
 1730. brush
@@ -1746,7 +1746,7 @@ description: 单词积累
 1734. madam
 1735. hop
 1736. audit
-1737. fairy
+1737. fairy #
 1738. agriculture
 1739. pottery #
 1740. plentiful
@@ -1768,3 +1768,22 @@ description: 单词积累
 1756. bean
 1757. ministry
 1758. porter
+1759. aesthetic
+1760. branch
+1761. laughter
+1762. relay
+1763. necessitate
+1764. sack
+1765. alloy
+1766. passerby
+1767. bark
+1768. iron
+1769. naval
+1770. dew
+1771. pilot
+1772. surgeon
+1773. closet
+1774. sweater
+1775. yell
+1776. grin
+1777. vast
