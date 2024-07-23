@@ -85,7 +85,6 @@ description: 计算机组成原理
 无符号 a - b = a + [-b]补
 有符号 a - b = [a]补 + [-b]补
 
-
 ### 数据的存储和排列
 
 #### 大小端存储
@@ -205,11 +204,12 @@ description: 计算机组成原理
 
 ### 指令的寻址
 
-
 ## 5 中央处理器
+
 识图
 
 控制信号序列
+
 1. (PC) -> MAR; PCout, MARin
 2. M(MAR) -> MDR, (PC) + 1 -> PC; MDRin, MemRead
 3. (MDR) -> IR; MDRout, IRin

@@ -21,24 +21,29 @@ description: 高数知识点梳理
 ## 数列极限
 
 ### 无穷大与无穷小亮
+
 - $\displaystyle\lim_{n \rightarrow \infty}x_n = a，存在x > 0，对于任意正数N，当n > N时，恒有 |x_n - a| < xx，当a = 0时，称x_n为 n \rightarrow \infty 的无穷小亮$
 - $\displaystyle\lim_{n \rightarrow \infty}x_n = \infty，存在x > 0，对于任意正数N，当n > N时，恒有 |x_n| > x，称x_n为 n \rightarrow \infty 的无穷大亮$
 
 ### 数列收敛与子数列收敛的关系
+
 - 若数列收敛，则其任意子数列也收敛
 - $\displaystyle\lim_{n \rightarrow \infty}a_n <=> \displaystyle\lim_{k \rightarrow \infty}a_{2k-1} = \displaystyle\lim_{k \rightarrow \infty}a_{2k+1} = a$ 偶数项, 奇数项极限均存在且相等为a <=> 全部项极限为a （这里必须包含所有项 奇数+偶数=全部）
 
 ### 常见的n项和
+
 1. $\Sigma_{k=1}^nk= 1+2+3+...+n = \tfrac{n(n + 1)}{2}$
 2. $\Sigma_{k=1}^nk^2= 1^2+2^2+...+n^2 = \tfrac{n(n + 1)(2n + 1)}{6}$
 3. $\Sigma_{k=1}^n\tfrac{1}{k(k+1)}= \tfrac{n}{n + 1}$ 裂项相消
 
 ### 保号性
+
 脱帽不等，戴帽非不等
 limf > 0 => f > 0
 f >=（>） 0 => limf >= 0
 
 ### 海涅定理（归结原理）
+
 $函数f(x) 在x_0 去心邻域内有定义，则\displaystyle\lim_{x \rightarrow x_0}f(x) = A 存在的冲要条件是：任意极限为x_0的数列{x_n, x_n \not ={x_0}}， 极限\displaystyle\lim_{x \rightarrow x_0}f(x) = A存在$
 
 ### 夹逼准则
@@ -64,7 +69,7 @@ $\displaystyle\lim_{n \rightarrow\infty}\Sigma_{i=1}^{n}\tfrac{\tfrac{i}{n^2}}{1
 
 - 单调增 + 有上界 = 收敛
 - 单调减 + 有下界 = 收敛
-  
+
 1. 先单调有界准则证明极限存在
 
 单调性

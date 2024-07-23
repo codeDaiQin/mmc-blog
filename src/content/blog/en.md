@@ -1407,405 +1407,405 @@ description: 单词积累
 1395. petty ###
 1396. refrigerator #
 1397. avail
-1399. detain
-1400. concede
-1401. heat
-1402. frost ##
-1403. entrance ##
-1404. lasting
-1405. miserable
-1406. measure
-1407. transit
-1408. bandage #
-1409. ultraviolet
-1410. slender ###
-1411. greedy
-1412. benevolent
-1413. pest #
-1414. retention ##
-1415. dine
-1416. prosecute #
-1417. grease ###
-1418. overhaul #
-1419. `naughty` #######
-1420. tin #
-1421. knob ##
-1422. `thunder` #####
-1423. deplete ##
-1424. zigzag
-1425. `pale` ####
-1426. plenty ###
-1427. eagle #
-1428. equity #
-1429. hound ##
-1430. blaze ##
-1431. `orthodox` ####
-1432. worst
-1433. sturdy ##
-1434. contagious
-1435. actress ##
-1436. castle ##
-1437. tub
-1438. submerge #
-1439. `burglar` ####
-1440. landlady #
-1441. coast #
-1442. tangle ##
-1443. steel #
-1444. dual ##
-1445. applause #
-1446. `pardon` #####
-1447. `tedious` ####
-1448. auditorium ##
-1449. stagger ###
-1450. oven ###
-1451. napkin ##
-1452. brow
-1453. proficiency
-1454. remnant #
-1455. rebellion ##
-1456. motor ###s
-1457. clay ##
-1458. `sane` ####
-1459. wound ##
-1460. farewell
-1461. shock
-1462. subconscious
-1463. soothe
-1464. supper
-1465. glass
-1466. layoff
-1467. peninsula ###
-1468. disposal
-1469. senate #
-1470. elevator
-1471. choke
-1472. gasoline ##
-1473. versatile
-1474. outstanding
-1475. scarf #
-1476. luggage ###
-1477. decree
-1478. `siege` #####
-1479. culminate ##
-1480. discreet #
-1481. cottage
-1482. eternal #
-1483. roar #
-1484. `pigeon` ####
-1485. miniature #
-1486. gracious #
-1487. vinegar ###
-1488. lyric ##
-1489. thirst #
-1490. stimulus
-1491. occur
-1492. exert
-1493. mobilize
-1494. statue
-1495. donkey #
-1496. delivery
-1497. crowd #
-1498. hysterical
-1499. dove
-1500. conquest
-1501. equator
-1502. grim ##
-1503. bush ##
-1504. feminine
-1505. sting
-1506. beam ##
-1507. foreigner #
-1508. siren
-1509. artery #
-1510. bless #
-1511. neat
-1512. arena #
-1513. sand #
-1514. cosy ##
-1515. dissipate ##
-1516. velvet
-1517. seam ##
-1518. axe
-1519. landlord
-1520. `futile` ####
-1521. concert
-1522. pupil ###
-1523. whirl
-1524. steak ##
-1525. conscience
-1526. comrade ###
-1527. portfolio
-1528. deviate
-1529. leather ###
-1530. agreement
-1531. affirm
-1532. dishonor
-1533. commitment
-1534. secure
-1535. surface
-1536. pledge #
-1537. bucket ##
-1538. inaugurate ##
-1539. toilet #
-1540. ascribe
-1541. cumulative #
-1542. `curtain` ######
-1543. `steal` ####
-1544. specimen
-1545. cushion ###
-1546. boil #
-1547. aggregate ###
-1548. pretext
-1549. cease #
-1550. twinkle ##
-1551. noun
-1552. stagnate ##
-1553. furnace ##
-1554. optical #
-1555. mad ###
-1556. howl
-1557. projector
-1558. tobacco #
-1559. chef #
-1560. dig ###
-1561. wing #
-1562. `biscuit` #####
-1563. vigorous ##
-1564. penny ##
-1565. reservation
-1566. nut #
-1567. conservation
-1568. thereafter
-1569. downtown ##
-1570. `horn` #######
-1571. chain
-1572. condense ###
-1573. dismay ##
-1574. eradicate ##
-1575. parcel
-1576. grass ##
-1577. `thermal` ####
-1578. rack ##
-1579. franchise ##
-1580. pact ##
-1581. companion ##
-1582. flour ###
-1583. brisk ##
-1584. recipe ###
-1585. henceforth
-1586. eloquent ###
-1587. blind
-1588. convenient #
-1589. `rim` ####
-1590. duplicate ##
-1591. stroll
-1592. embassy ###
-1593. `seize` ####
-1594. aviation ##
-1595. metal ##
-1596. squirrel #
-1597. sneeze ###
-1598. senator #
-1599. missile ###
-1600. earthquake #
-1601. credit
-1602. shared
-1603. confrontation ##
-1604. dumb #
-1605. recreation #
-1606. belly ##
-1607. intrigue ##
-1608. gorgeous
-1609. graze #
-1610. `stubborn` #####
-1611. treasure ##
-1612. tame ##
-1613. whisper ##
-1614. cafeteria #
-1615. sauce ##
-1616. fence #
-1617. meal
-1618. clever
-1619. pretend ###
-1620. rhetoric ##
-1621. `parasite` ####
-1622. shut
-1623. hatred ##
-1624. `antenna` ####
-1625. cylinder ##
-1626. `fable` ####
-1627. `faint` #####
-1628. ambassador ##
-1629. fracture
-1630. surrender
-1631. aural ##
-1632. saturate #
-1633. shipment ##
-1634. sector
-1635. bright
-1636. clamp down
-1637. barrier
-1638. paw
-1639. sightsee
-1640. marvelous
-1641. pipe
-1642. turnover
-1643. riddle #
-1644. deceit #
-1645. ugly
-1646. excerpt #
-1647. embryo
-1648. radiant
-1649. lip #
-1650. carpenter ##
-1651. defect ###
-1652. waitress
-1653. mend ##
-1654. breeze ##
-1655. kindergarten #
-1656. fright #
-1657. parameter ###
-1658. watt
-1659. triple
-1660. voltage ##
-1661. furious
-1662. pope
-1663. march #
-1664. waste
-1665. marital
-1666. opaque ###
-1667. shake ##
-1668. visa
-1669. wedding ##
-1670. oxide
-1671. aisle #
-1672. niece
-1673. bribe ###
-1674. blouse #
-1675. downstairs
-1676. typhoon
-1677. despatch #
-1678. `exquisite` ####
-1679. tumble
-1680. shave #
-1681. sunset
-1682. sour
-1683. exterior
-1684. exhibition
-1685. coarse ##
-1686. scissors #
-1687. ruthless #
-1688. lift
-1689. indicative
-1690. camel ###
-1691. chess
-1692. sniff
-1693. curse
-1694. corrode
-1695. bench ##
-1696. `germ` #####
-1697. celebrate
-1698. stove
-1699. astonish ##
-1700. crane
-1701. malignant #
-1702. collar ##
-1703. defy
-1704. wet #
-1705. lapse ##
-1706. gloomy ###
-1707. pirate #
-1708. manual
-1709. fragile
-1710. cigar
-1711. splendid
-1712. darling
-1713. discrepancy
-1714. lease
-1715. paste
-1716. nap
-1717. hardship
-1718. plate
-1719. humidity
-1720. underneath
-1721. mistress
-1722. stewardess
-1723. buzz
-1724. fling
-1725. stale #
-1726. infectious
-1727. outskirts #
-1728. cluster
-1729. invention
-1730. brush
-1731. pulse
-1732. summon
-1733. overthrow
-1734. madam
-1735. hop #
-1736. audit
-1737. fairy #
-1738. agriculture
-1739. pottery #
-1740. plentiful
-1741. bullet
-1742. spear
-1743. meditate
-1744. fist
-1745. linguistic
-1746. outbreak
-1747. compass
-1748. rub
-1749. nominal
-1750. accountant
-1751. tennis
-1752. mischief
-1753. altitude
-1754. suppose
-1755. shall
-1756. bean
-1757. ministry
-1758. porter
-1759. aesthetic
-1760. branch
-1761. laughter
-1762. relay
-1763. necessitate
-1764. sack
-1765. alloy
-1766. passerby
-1767. bark
-1768. iron
-1769. naval
-1770. dew
-1771. pilot
-1772. surgeon
-1773. closet
-1774. sweater
-1775. yell
-1776. grin
-1777. vast
-1778. pitch
-1779. bite
-1780. tanker
-1781. hike
-1782. pathetic
-1783. spill
-1784. fore
-1785. fireplace
-1786. strenuous
-1787. fortnight
-1788. medicine
-1789. postpone
-1790. cloth
-1791. maiden
-1792. wipe
-1793. adequate
-1794. acquire
-1795. clockwise
-1796. severe
-1797. magnet
-1798. thrive
-1799. metric
-1800. lorry
+1398. detain
+1399. concede
+1400. heat
+1401. frost ##
+1402. entrance ##
+1403. lasting
+1404. miserable
+1405. measure
+1406. transit
+1407. bandage #
+1408. ultraviolet
+1409. slender ###
+1410. greedy
+1411. benevolent
+1412. pest #
+1413. retention ##
+1414. dine
+1415. prosecute #
+1416. grease ###
+1417. overhaul #
+1418. `naughty` #######
+1419. tin #
+1420. knob ##
+1421. `thunder` #####
+1422. deplete ##
+1423. zigzag
+1424. `pale` ####
+1425. plenty ###
+1426. eagle #
+1427. equity #
+1428. hound ##
+1429. blaze ##
+1430. `orthodox` ####
+1431. worst
+1432. sturdy ##
+1433. contagious
+1434. actress ##
+1435. castle ##
+1436. tub
+1437. submerge #
+1438. `burglar` ####
+1439. landlady #
+1440. coast #
+1441. tangle ##
+1442. steel #
+1443. dual ##
+1444. applause #
+1445. `pardon` #####
+1446. `tedious` ####
+1447. auditorium ##
+1448. stagger ###
+1449. oven ###
+1450. napkin ##
+1451. brow
+1452. proficiency
+1453. remnant #
+1454. rebellion ##
+1455. motor ###s
+1456. clay ##
+1457. `sane` ####
+1458. wound ##
+1459. farewell
+1460. shock
+1461. subconscious
+1462. soothe
+1463. supper
+1464. glass
+1465. layoff
+1466. peninsula ###
+1467. disposal
+1468. senate #
+1469. elevator
+1470. choke
+1471. gasoline ##
+1472. versatile
+1473. outstanding
+1474. scarf #
+1475. luggage ###
+1476. decree
+1477. `siege` #####
+1478. culminate ##
+1479. discreet #
+1480. cottage
+1481. eternal #
+1482. roar #
+1483. `pigeon` ####
+1484. miniature #
+1485. gracious #
+1486. vinegar ###
+1487. lyric ##
+1488. thirst #
+1489. stimulus
+1490. occur
+1491. exert
+1492. mobilize
+1493. statue
+1494. donkey #
+1495. delivery
+1496. crowd #
+1497. hysterical
+1498. dove
+1499. conquest
+1500. equator
+1501. grim ##
+1502. bush ##
+1503. feminine
+1504. sting
+1505. beam ##
+1506. foreigner #
+1507. siren
+1508. artery #
+1509. bless #
+1510. neat
+1511. arena #
+1512. sand #
+1513. cosy ##
+1514. dissipate ##
+1515. velvet
+1516. seam ##
+1517. axe
+1518. landlord
+1519. `futile` ####
+1520. concert
+1521. pupil ###
+1522. whirl
+1523. steak ##
+1524. conscience
+1525. comrade ###
+1526. portfolio
+1527. deviate
+1528. leather ###
+1529. agreement
+1530. affirm
+1531. dishonor
+1532. commitment
+1533. secure
+1534. surface
+1535. pledge #
+1536. bucket ##
+1537. inaugurate ##
+1538. toilet #
+1539. ascribe
+1540. cumulative #
+1541. `curtain` ######
+1542. `steal` ####
+1543. specimen
+1544. cushion ###
+1545. boil #
+1546. aggregate ###
+1547. pretext
+1548. cease #
+1549. twinkle ##
+1550. noun
+1551. stagnate ##
+1552. furnace ##
+1553. optical #
+1554. mad ###
+1555. howl
+1556. projector
+1557. tobacco #
+1558. chef #
+1559. dig ###
+1560. wing #
+1561. `biscuit` #####
+1562. vigorous ##
+1563. penny ##
+1564. reservation
+1565. nut #
+1566. conservation
+1567. thereafter
+1568. downtown ##
+1569. `horn` #######
+1570. chain
+1571. condense ###
+1572. dismay ##
+1573. eradicate ##
+1574. parcel
+1575. grass ##
+1576. `thermal` ####
+1577. rack ##
+1578. franchise ##
+1579. pact ##
+1580. companion ##
+1581. flour ###
+1582. brisk ##
+1583. recipe ###
+1584. henceforth
+1585. eloquent ###
+1586. blind
+1587. convenient #
+1588. `rim` ####
+1589. duplicate ##
+1590. stroll
+1591. embassy ###
+1592. `seize` ####
+1593. aviation ##
+1594. metal ##
+1595. squirrel #
+1596. sneeze ###
+1597. senator #
+1598. missile ###
+1599. earthquake #
+1600. credit
+1601. shared
+1602. confrontation ##
+1603. dumb #
+1604. recreation #
+1605. belly ##
+1606. intrigue ##
+1607. gorgeous
+1608. graze #
+1609. `stubborn` #####
+1610. treasure ##
+1611. tame ##
+1612. whisper ##
+1613. cafeteria #
+1614. sauce ##
+1615. fence #
+1616. meal
+1617. clever
+1618. pretend ###
+1619. rhetoric ##
+1620. `parasite` ####
+1621. shut
+1622. hatred ##
+1623. `antenna` ####
+1624. cylinder ##
+1625. `fable` ####
+1626. `faint` #####
+1627. ambassador ##
+1628. fracture
+1629. surrender
+1630. aural ##
+1631. saturate #
+1632. shipment ##
+1633. sector
+1634. bright
+1635. clamp down
+1636. barrier
+1637. paw
+1638. sightsee
+1639. marvelous
+1640. pipe
+1641. turnover
+1642. riddle #
+1643. deceit #
+1644. ugly
+1645. excerpt #
+1646. embryo
+1647. radiant
+1648. lip #
+1649. carpenter ##
+1650. defect ###
+1651. waitress
+1652. mend ##
+1653. breeze ##
+1654. kindergarten #
+1655. fright #
+1656. parameter ###
+1657. watt
+1658. triple
+1659. voltage ##
+1660. furious
+1661. pope
+1662. march #
+1663. waste
+1664. marital
+1665. opaque ###
+1666. shake ##
+1667. visa
+1668. wedding ##
+1669. oxide
+1670. aisle #
+1671. niece
+1672. bribe ###
+1673. blouse #
+1674. downstairs
+1675. typhoon
+1676. despatch #
+1677. `exquisite` ####
+1678. tumble
+1679. shave #
+1680. sunset
+1681. sour
+1682. exterior
+1683. exhibition
+1684. coarse ##
+1685. scissors #
+1686. ruthless #
+1687. lift
+1688. indicative
+1689. camel ###
+1690. chess
+1691. sniff
+1692. curse
+1693. corrode
+1694. bench ##
+1695. `germ` #####
+1696. celebrate
+1697. stove
+1698. astonish ##
+1699. crane
+1700. malignant #
+1701. collar ##
+1702. defy
+1703. wet #
+1704. lapse ##
+1705. gloomy ###
+1706. pirate #
+1707. manual
+1708. fragile
+1709. cigar
+1710. splendid
+1711. darling
+1712. discrepancy
+1713. lease
+1714. paste
+1715. nap
+1716. hardship
+1717. plate
+1718. humidity
+1719. underneath
+1720. mistress
+1721. stewardess
+1722. buzz
+1723. fling
+1724. stale #
+1725. infectious
+1726. outskirts #
+1727. cluster
+1728. invention
+1729. brush
+1730. pulse
+1731. summon
+1732. overthrow
+1733. madam
+1734. hop #
+1735. audit
+1736. fairy #
+1737. agriculture
+1738. pottery #
+1739. plentiful
+1740. bullet
+1741. spear
+1742. meditate
+1743. fist
+1744. linguistic
+1745. outbreak
+1746. compass
+1747. rub
+1748. nominal
+1749. accountant
+1750. tennis
+1751. mischief
+1752. altitude
+1753. suppose
+1754. shall
+1755. bean
+1756. ministry
+1757. porter
+1758. aesthetic
+1759. branch
+1760. laughter
+1761. relay
+1762. necessitate
+1763. sack
+1764. alloy
+1765. passerby
+1766. bark
+1767. iron
+1768. naval
+1769. dew
+1770. pilot
+1771. surgeon
+1772. closet
+1773. sweater
+1774. yell
+1775. grin
+1776. vast
+1777. pitch
+1778. bite
+1779. tanker
+1780. hike
+1781. pathetic
+1782. spill
+1783. fore
+1784. fireplace
+1785. strenuous
+1786. fortnight
+1787. medicine
+1788. postpone
+1789. cloth
+1790. maiden
+1791. wipe
+1792. adequate
+1793. acquire
+1794. clockwise
+1795. severe
+1796. magnet
+1797. thrive
+1798. metric
+1799. lorry
