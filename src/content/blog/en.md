@@ -509,7 +509,7 @@ description: 单词积累
 497. scrap ###
 498. sigh ##
 499. flock
-500. `paddle` #####
+500. `paddle` ######
 501. giggle #
 502. no more than 不超过，仅仅
 503. earnest
@@ -526,7 +526,7 @@ description: 单词积累
 514. erupt
 515. vicious
 516. `breach` #####
-517. `tragic` #####
+517. `tragic` ######
 518. `ethnic` #### ethic
 519. `drone` #######
 520. ample #
@@ -600,7 +600,7 @@ description: 单词积累
 588. `cosmic` #### cosmos ###
 589. `benign` #####
 590. dam ##
-591. `tomb` #####
+591. `tomb` ######
 592. `limb` ######
 593. parliament
 594. `swear` ####
@@ -891,7 +891,7 @@ description: 单词积累
 879. denial
 880. `tumour` #####
 881. `hatch` ########
-882. `paradigm` ######
+882. `paradigm` #######
 883. theoretical
 884. `lofty` ####
 885. bake ###
@@ -912,7 +912,7 @@ description: 单词积累
 900. reed ##
 901. flood
 902. `daunting` ####
-903. smooth #
+903. smooth ##
 904. hasty #
 905. terrify #
 906. snatch #
@@ -928,12 +928,12 @@ description: 单词积累
 916. debt #
 917. diet ###
 918. appal ##
-919. `escalate` ######
+919. `escalate` #######
 920. `contingent` #####
 921. gratitude #
 922. `wagon` ######
 923. `deed` ####
-924. `maneuver` ####
+924. `maneuver` #####
 925. doubt
 926. bedrock #
 927. censorship ##
@@ -972,7 +972,7 @@ description: 单词积累
 960. pity #
 961. dentist #
 962. peasant ###
-963. needle ##
+963. needle ###
 964. knee
 965. predator ###
 966. stool #
@@ -1360,7 +1360,7 @@ description: 单词积累
 1348. pistol ###
 1349. pebble ##
 1350. grope #
-1351. analogue #
+1351. analogue ##
 1352. thrift
 1353. `vapour` ####
 1354. `stagnant` ######
@@ -1403,7 +1403,7 @@ description: 单词积累
 1391. sprout ##
 1392. inverse
 1393. yawn ##
-1394. wheat #
+1394. wheat ##
 1395. petty ###
 1396. refrigerator #
 1397. avail
@@ -1421,12 +1421,12 @@ description: 单词积累
 1409. slender ###
 1410. greedy
 1411. benevolent
-1412. pest #
+1412. pest ##
 1413. retention ###
 1414. dine
 1415. prosecute #
 1416. grease ###
-1417. overhaul #
+1417. overhaul ##
 1418. `naughty` #######
 1419. tin #
 1420. knob ##
@@ -1446,7 +1446,7 @@ description: 单词积累
 1434. actress ##
 1435. castle ##
 1436. tub
-1437. submerge #
+1437. submerge ##
 1438. `burglar` ####
 1439. landlady #
 1440. coast #
@@ -1457,11 +1457,11 @@ description: 单词积累
 1445. `pardon` #####
 1446. `tedious` ####
 1447. auditorium ##
-1448. stagger ###
+1448. `stagger` ####
 1449. oven ###
 1450. napkin ##
 1451. brow
-1452. proficiency
+1452. proficiency #
 1453. remnant #
 1454. rebellion ##
 1455. motor ###s
@@ -1489,7 +1489,7 @@ description: 单词积累
 1477. `siege` #####
 1478. culminate ##
 1479. discreet #
-1480. cottage
+1480. cottage #
 1481. eternal #
 1482. roar #
 1483. `pigeon` ####
@@ -1517,7 +1517,7 @@ description: 单词积累
 1505. beam ##
 1506. foreigner #
 1507. siren
-1508. artery #
+1508. artery ##
 1509. bless #
 1510. neat
 1511. arena #
@@ -1536,7 +1536,7 @@ description: 单词积累
 1524. conscience
 1525. comrade ###
 1526. portfolio
-1527. deviate
+1527. deviate #
 1528. leather ###
 1529. agreement
 1530. affirm
@@ -1592,7 +1592,7 @@ description: 单词积累
 1580. companion ##
 1581. flour ###
 1582. brisk ##
-1583. recipe ###
+1583. `recipe` ####
 1584. henceforth
 1585. `eloquent` ####
 1586. blind
@@ -1601,7 +1601,7 @@ description: 单词积累
 1589. duplicate ##
 1590. stroll
 1591. embassy ###
-1592. `seize` ####
+1592. `seize` #####
 1593. aviation ##
 1594. metal ##
 1595. squirrel #
@@ -1635,12 +1635,12 @@ description: 单词积累
 1623. `antenna` ####
 1624. cylinder ##
 1625. `fable` ####
-1626. `faint` #####
+1626. `faint` ######
 1627. ambassador ##
 1628. fracture
 1629. surrender
 1630. aural ##
-1631. saturate #
+1631. saturate ##
 1632. shipment ##
 1633. sector
 1634. bright
@@ -1663,7 +1663,7 @@ description: 单词积累
 1651. waitress
 1652. mend ##
 1653. breeze ##
-1654. kindergarten #
+1654. kindergarten ##
 1655. fright #
 1656. parameter ###
 1657. watt #
@@ -1688,7 +1688,7 @@ description: 单词积累
 1676. despatch #
 1677. `exquisite` ####
 1678. tumble
-1679. shave #
+1679. shave ##
 1680. sunset
 1681. sour
 1682. exterior
@@ -1786,7 +1786,7 @@ description: 单词积累
 1774. yell
 1775. grin
 1776. vast
-1777. pitch
+1777. pitch #
 1778. bite
 1779. tanker
 1780. hike
@@ -1810,3 +1810,6 @@ description: 单词积累
 1798. metric
 1799. lorry
 1800. botany
+1801. revelation
+1802. keen
+1803. ski
