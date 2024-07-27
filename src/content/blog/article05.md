@@ -3,7 +3,7 @@ title: 政治
 author: caterpillar
 pubDatetime: 2024-06-24T00:00:00
 featured: false
-draft: false
+draft: true
 tags:
   - 考研
   - 政治
