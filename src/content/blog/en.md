@@ -187,7 +187,7 @@ description: 单词积累
 175. overcome ##
 176. utmost
 177. scenario ##
-178. sip ##
+178. sip ###
 179. `distress` ####
 180. pyramid ##
 181. prey ##
@@ -205,7 +205,7 @@ description: 单词积累
 193. stall
 194. weep #
 195. lottery
-196. spin ###
+196. `spin` ####
 197. `intact` #####
 198. curiosity #
 199. amateur ##
@@ -502,7 +502,7 @@ description: 单词积累
 490. `brutal` ####
 491. `steward` ######
 492. accumulate
-493. `mortal` #####
+493. `mortal` ######
 494. fossil
 495. `corridor` ####
 496. bang
@@ -543,7 +543,7 @@ description: 单词积累
 531. reservoir
 532. betray ##
 533. widow #
-534. culprit ###
+534. `culprit` ####
 535. surveillance ###
 536. obligation #
 537. stir
@@ -635,7 +635,7 @@ description: 单词积累
 623. bruise #
 624. `slave` #####
 625. `deposit` #######
-626. `evaporate` ######
+626. `evaporate` #######
 627. reciprocal
 628. intention
 629. drain ###
@@ -719,7 +719,7 @@ description: 单词积累
 707. prisoner ###
 708. prison ##
 709. `pendulum` #####
-710. tan #
+710. tan ##
 711. pour #
 712. severity
 713. governance #
@@ -774,7 +774,7 @@ description: 单词积累
 762. `towel` ######
 763. tower #
 764. tow #
-765. `tender` ####
+765. `tender` #####
 766. `petroleum` ####
 767. sponge ##
 768. `bolster` ######
@@ -802,7 +802,7 @@ description: 单词积累
 790. secretary ##
 791. dive #
 792. texture
-793. cable #
+793. cable ##
 794. oar
 795. ripe
 796. whale
@@ -964,7 +964,7 @@ description: 单词积累
 952. `pole` #####
 953. haul ##
 954. lecture ##
-955. overt ###
+955. `overt` ####
 956. `harbor` #####
 957. grip
 958. ladder #
@@ -1043,7 +1043,7 @@ description: 单词积累
 1031. crop
 1032. `whistle` ######
 1033. ascend
-1034. `cereal` ####
+1034. `cereal` #####
 1035. fellow ##
 1036. centigrade #
 1037. appeal
@@ -1117,7 +1117,7 @@ description: 单词积累
 1105. `anguish` ####
 1106. trademark
 1107. `bitter` ####
-1108. moisture #
+1108. moisture ##
 1109. `huddle` #####
 1110. cattle
 1111. solitary ##
@@ -1212,8 +1212,8 @@ description: 单词积累
 1200. fame
 1201. fond #
 1202. `dazzle` ####
-1203. `gauge` #######
-1204. revenge ##
+1203. `gauge` ########
+1204. revenge ###
 1205. salute ##
 1206. fellowship
 1207. `diagram` ####
@@ -1444,7 +1444,7 @@ description: 单词积累
 1432. sturdy ##
 1433. contagious
 1434. actress ##
-1435. castle ##
+1435. castle ###
 1436. tub
 1437. submerge ##
 1438. `burglar` ####
@@ -1454,7 +1454,7 @@ description: 单词积累
 1442. steel #
 1443. dual ##
 1444. applause #
-1445. `pardon` #####
+1445. `pardon` ######
 1446. `tedious` ####
 1447. auditorium ##
 1448. `stagger` ####
@@ -1475,7 +1475,7 @@ description: 单词积累
 1463. supper
 1464. glass
 1465. layoff
-1466. peninsula ###
+1466. `peninsula` ####
 1467. disposal
 1468. senate #
 1469. elevator
@@ -1607,7 +1607,7 @@ description: 单词积累
 1595. squirrel #
 1596. sneeze ###
 1597. senator #
-1598. missile ###
+1598. `missile` ####
 1599. earthquake #
 1600. credit
 1601. shared
@@ -1632,7 +1632,7 @@ description: 单词积累
 1620. `parasite` ####
 1621. shut
 1622. hatred ##
-1623. `antenna` ####
+1623. `antenna` #####
 1624. cylinder ##
 1625. `fable` ####
 1626. `faint` ######
@@ -1813,3 +1813,7 @@ description: 单词积累
 1801. revelation
 1802. keen
 1803. ski
+1804. spaceship
+1805. hurl
+1806. transient
+1807. steady
